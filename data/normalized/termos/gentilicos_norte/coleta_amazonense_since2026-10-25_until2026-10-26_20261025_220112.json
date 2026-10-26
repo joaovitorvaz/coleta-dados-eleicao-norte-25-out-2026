@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_norte",
+    "query": "amazonense",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "3a06da5f-43e6-4087-b864-3678a5c70b21",
+    "collected_at": "2026-10-25T22:01:12-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [],
+  "comments": []
+}

@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_norte",
+    "query": "acreano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "3a06da5f-43e6-4087-b864-3678a5c70b21",
+    "collected_at": "2026-10-25T21:56:31-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114437660718616912",
+            "text": "Este sol a brilhar soberano 🎶 🇬🇫\nNosso hino Acreano nunca fez tanto sentido hoje 😂🥵",
+            "author_username": "PainzinhoIvons",
+            "author_name": "PainzinhoIvons",
+            "created_at": "2026-10-25T19:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PainzinhoIvons/status/2114437660718616912#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114395428846281197",
+            "text": "Sou gay, sou nortista, sou esquerdista, sou pobre, sou CLT, sou católico, tenho consciência e meu voto é no Lula!!!!! MEU VOTO É 13 PORRA!!! VAI TER ACREANO FAZENDO O L SIM!",
+            "author_username": "Josue_lima1",
+            "author_name": "Josue_lima1",
+            "created_at": "2026-10-25T16:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Josue_lima1/status/2114395428846281197#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114437660718616912",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114437660718616912",
+      "collected_at": "2026-10-25T21:56:31-03:00",
+      "matched_terms": [
+        "Gentílicos — Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "acreano",
+        "term_group_id": "gentilicos_norte",
+        "term_label": "Gentílicos — Norte",
+        "run_id": "3a06da5f-43e6-4087-b864-3678a5c70b21",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114437660718616912",
+        "text": "Este sol a brilhar soberano 🎶 🇬🇫\nNosso hino Acreano nunca fez tanto sentido hoje 😂🥵",
+        "author_username": "PainzinhoIvons",
+        "author_name": "PainzinhoIvons",
+        "created_at": "2026-10-25T19:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PainzinhoIvons/status/2114437660718616912#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
