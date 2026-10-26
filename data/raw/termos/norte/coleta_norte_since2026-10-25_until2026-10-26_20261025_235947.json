@@ -1,0 +1,1258 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+    "collected_at": "2026-10-25T23:59:47-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 71
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114546627008688325",
+            "text": "Eu sou a favor que o Brasil se divida em dois o Brasil sul do progresso e o Brasil do norte que é do atraso eu quero ficar no Brasil do progresso",
+            "author_username": "HelitonSen67684",
+            "author_name": "HelitonSen67684",
+            "created_at": "2026-10-26T02:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HelitonSen67684/status/2114546627008688325#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114544991728984427",
+            "text": "Israel nunca perde. Eles controlam os dois lados. Só não controlam o Irã, a Rússia, a China e Coreia do Norte, o resta está tudo dominado.",
+            "author_username": "Ricardo05799019",
+            "author_name": "Ricardo05799019",
+            "created_at": "2026-10-26T02:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ricardo05799019/status/2114544991728984427#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114544124866994651",
+            "text": "Rio Grande do Norte é tão performático",
+            "author_username": "Joo77778505",
+            "author_name": "Joo77778505",
+            "created_at": "2026-10-26T02:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Joo77778505/status/2114544124866994651#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114538731684131200",
+            "text": "Norte e Nordeste contra o filho da peste!\n\nVencemos",
+            "author_username": "anacristinalp",
+            "author_name": "anacristinalp",
+            "created_at": "2026-10-26T02:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/anacristinalp/status/2114538731684131200#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114538723178086500",
+            "text": "Digo o mesmo, e eu sou do norte de minas, região que é maioria de esquerda, vim para o sul para trabalhar, e votei em Flávio aqui, enquanto meus conterrâneos faziam cagada lá no norte, petismo é burrice misturada com doença.",
+            "author_username": "ssalomao13",
+            "author_name": "ssalomao13",
+            "created_at": "2026-10-26T02:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ssalomao13/status/2114538723178086500#m",
+            "metrics": {
+              "like_count": 75,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114535413608013922",
+            "text": "Valeu meu nordeste pesado, meus ancestrais, que saíram na garra, na luta, valeu ao norte que se recuperou sua lucidez e valeu Minas Gerais, nossa vizinha, sabe das nossas lutas porque é bem parecida com nossa energia...valeu aos blogs, a união 🫂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-26T01:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114535413608013922#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114532370766311436",
+            "text": "Essa eleições foi histórica, começou com jovens em Niterói e desencadeou em atos por todo o Brasil e o vira voto, cada votinho fez a diferença e elegeu o Lula e o tetr4 veio, e a estrela brilhou \n🌟🇧🇷❤️ eu tô emocionado!!! Obgg meu Norte, obgg Nordeste!! E obgg a Minas e todos!!",
+            "author_username": "brunofss_",
+            "author_name": "brunofss_",
+            "created_at": "2026-10-26T01:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brunofss_/status/2114532370766311436#m",
+            "metrics": {
+              "like_count": 81,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114529716342333637",
+            "text": "Eu saí de Janaúba no norte de minas e vim para pouso alegre no sul de minas para trabalhar, e essa votação expressiva no norte de minas não me surpreende, que separe mesmo.",
+            "author_username": "ssalomao13",
+            "author_name": "ssalomao13",
+            "created_at": "2026-10-26T01:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ssalomao13/status/2114529716342333637#m",
+            "metrics": {
+              "like_count": 420,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114528295832199359",
+            "text": "É A MAIOR CIDADE DO NORTE, FALA MAAAAAAIS!!!",
+            "author_username": "luckegadinho",
+            "author_name": "luckegadinho",
+            "created_at": "2026-10-26T01:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luckegadinho/status/2114528295832199359#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521750687949006",
+            "text": "Se o Looladrão não mantivesse o Norte e o Nordeste na miséria eles não teriam que ir embora para outros estados, então votam em agradecimento pela oportunidade de conhecer outros lugares kkkkkkk",
+            "author_username": "fefe2278",
+            "author_name": "fefe2278",
+            "created_at": "2026-10-26T00:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fefe2278/status/2114521750687949006#m",
+            "metrics": {
+              "like_count": 74,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114521449654276142",
+            "text": "O Nordeste, o Norte e Minas Gerais salvaram o Brasil da extrema-direita.",
+            "author_username": "alexandrefv",
+            "author_name": "alexandrefv",
+            "created_at": "2026-10-26T00:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alexandrefv/status/2114521449654276142#m",
+            "metrics": {
+              "like_count": 63,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114521152777294138",
+            "text": "Com 50,71 por cento dos votos válidos,Cadu de Lula foi eleito Governador do Rio Grande do Norte.\nCarlos Eduardo Xavier,o Cadu de Lula,foi secretário do governo de Fátima Bezerra (PT/RN)tem 48 snos e pela primeira vez concorre a uma cargo eletivo.",
+            "author_username": "MonteiroNelma",
+            "author_name": "MonteiroNelma",
+            "created_at": "2026-10-26T00:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MonteiroNelma/status/2114521152777294138#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114516660346355914",
+            "text": "OS VENTOS DO NORTE NÃO MOVEM MOINHO\n\n#LulaOMaiorDeTodos #LulaEleito #TocantinsComLula #lula",
+            "author_username": "pernalongagio",
+            "author_name": "pernalongagio",
+            "created_at": "2026-10-26T00:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pernalongagio/status/2114516660346355914#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114515207355588983",
+            "text": "Fizemos história! Juntos somos mais fortes do que imaginamos. Vimos a força que nos uniu de norte a sul e demos o recado. Unimos a direita e a esquerda contra o bolsonarismo e vamos expurgar todos os extremistas até as eleições saudáveis voltarem.\n\nGRANDE DIA!",
+            "author_username": "seuantialergico",
+            "author_name": "seuantialergico",
+            "created_at": "2026-10-26T00:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/seuantialergico/status/2114515207355588983#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114513613931032858",
+            "text": "A sensação que eu tenho é que nunca aprenderemos com nossos erros. Flavio teve um desempenho pior que o do Jair em todos os Estados do Norte, em 2022; no sudeste tambem.\nNao contestamos decisões judiciais bizarras, como a de hoje.\nApenas acreditamos que ia dar certo.",
+            "author_username": "rodrigombl",
+            "author_name": "rodrigombl",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rodrigombl/status/2114513613931032858#m",
+            "metrics": {
+              "like_count": 79,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114511989619757234",
+            "text": "NORDESTE, PARTE DA REGIÃO NORTE E ESPECIALMENTE MINAS GERAIS ESTÃO MARCADOS NA HISTÓRIA DA LUTA PELA DEMOCRACIA NO ANO DE 2026, JAMAIS ESQUECEREMOS SEUS ESFORÇOS",
+            "author_username": "Guui_Gs",
+            "author_name": "Guui_Gs",
+            "created_at": "2026-10-26T00:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Guui_Gs/status/2114511989619757234#m",
+            "metrics": {
+              "like_count": 76,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114511784598007915",
+            "text": "NO RIO GRANDE DO NORTE FASCISTA NÃO SE CRIA!!!!!!!!",
+            "author_username": "Carol_Dolmayan",
+            "author_name": "Carol_Dolmayan",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Carol_Dolmayan/status/2114511784598007915#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114511321920147774",
+            "text": "Aprende @nikolas_dm \nQuem manda no Brasil é o Nordeste e o Norte!",
+            "author_username": "RonyeliCarvalho",
+            "author_name": "RonyeliCarvalho",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/RonyeliCarvalho/status/2114511321920147774#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511083906245015",
+            "text": "Fomos buscar a memória de quem viu esse país melhorar.\n\nViva a Lula, Janones, Renan , MG e todo o Nordeste e Norte. \n\nE os tão importantes das outras regiões. \n\nViva a Jerônimo,  a Fonteles e outros mais.\n\nÉ tetra!!!!",
+            "author_username": "de_victor2360",
+            "author_name": "de_victor2360",
+            "created_at": "2026-10-26T00:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114511083906245015#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114508904432386284",
+            "text": "\"O Norte não Esquece \"\n- Game of Trones\n#LulaReeleito",
+            "author_username": "lexsanderbreu",
+            "author_name": "lexsanderbreu",
+            "created_at": "2026-10-26T00:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lexsanderbreu/status/2114508904432386284#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114507641686745490",
+            "text": "Que essa vitória de Lula desça rasgando a guela, que vocês engula toda a sua arrogância e prepotência.  Viva aos nossos idosos, viva aos povos originários, viva ao Norte, Nordeste e todos aqueles que lutaram pelo Brasil, por nossa democracia e soberania, até o fim.",
+            "author_username": "poxarair",
+            "author_name": "poxarair",
+            "created_at": "2026-10-26T00:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/poxarair/status/2114507641686745490#m",
+            "metrics": {
+              "like_count": 80,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114505122579636728",
+            "text": "Brasil governado por bandido de norte ⬆️ ao ⬇️ sul",
+            "author_username": "HelenitoFla",
+            "author_name": "HelenitoFla",
+            "created_at": "2026-10-25T23:51:00+00:00",
+            "permalink": "https://nitter.meowing.monster/HelenitoFla/status/2114505122579636728#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114502224738971951",
+            "text": "Minas é um estado muito grande e muito heterogêneo. Entra voto do Triângulo, Bolsonaro passa. Entra voto do Norte e Jequitinhonha Lula passa. Capital tá pau a pau.",
+            "author_username": "nando_pedro",
+            "author_name": "nando_pedro",
+            "created_at": "2026-10-25T23:39:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nando_pedro/status/2114502224738971951#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114501649007824953",
+            "text": "Kkkkkkk nega, eu vou fazer uma romaria pra Aparecida do Norte kkkkkk",
+            "author_username": "eutriscila",
+            "author_name": "eutriscila",
+            "created_at": "2026-10-25T23:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eutriscila/status/2114501649007824953#m",
+            "metrics": {
+              "like_count": 91,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114499112121114858",
+            "text": "O Norte e o Nordeste salvando esse pais",
+            "author_username": "Ramol_",
+            "author_name": "Ramol_",
+            "created_at": "2026-10-25T23:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ramol_/status/2114499112121114858#m",
+            "metrics": {
+              "like_count": 73,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114495855197552685",
+            "text": "Estou confiante com a votação até agora\nA porcentagem das urnas do Sul, do Centro-Oeste e do Norte já ultrapassaram 50% e a disputa está acirrada\nO que me preocupa é o sudeste",
+            "author_username": "uiuouwill",
+            "author_name": "uiuouwill",
+            "created_at": "2026-10-25T23:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/uiuouwill/status/2114495855197552685#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114491525392736627",
+            "text": "E lá vai o norte e nordeste resolver de novo \nTnc",
+            "author_username": "nandoffaria",
+            "author_name": "nandoffaria",
+            "created_at": "2026-10-25T22:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nandoffaria/status/2114491525392736627#m",
+            "metrics": {
+              "like_count": 77,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114489843225067914",
+            "text": "Bolsonaro negou oxigênio para Manaus. Isso é síndrome de Estocolmo. Ter um Bolsonaro vencendo na região Norte é um acinte!",
+            "author_username": "deedeeftn",
+            "author_name": "deedeeftn",
+            "created_at": "2026-10-25T22:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/deedeeftn/status/2114489843225067914#m",
+            "metrics": {
+              "like_count": 270,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 19
+            }
+          },
+          {
+            "id": "2114489237152129140",
+            "text": "Era esperado virar o norte,centro oeste e sul é bolsonaro",
+            "author_username": "OficiallGabs",
+            "author_name": "OficiallGabs",
+            "created_at": "2026-10-25T22:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/OficiallGabs/status/2114489237152129140#m",
+            "metrics": {
+              "like_count": 48,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114487719154040977",
+            "text": "em desespero vendo os estados do norte que começaram vermelho ficando azul",
+            "author_username": "sasadeprimida",
+            "author_name": "sasadeprimida",
+            "created_at": "2026-10-25T22:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/sasadeprimida/status/2114487719154040977#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114486064744485139",
+            "text": "Retirar ônibus, cancelar voos, tirar barcos no norte para o @freire_roberto é normal; inclusive a polícia rodoviária federal ter bloqueado eleitores em 2022. Qual seu interesse?",
+            "author_username": "TvcallN",
+            "author_name": "TvcallN",
+            "created_at": "2026-10-25T22:35:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TvcallN/status/2114486064744485139#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114484544841597165",
+            "text": "Norte \nCentro Oeste\nSul\nNordeste \nSudeste\n\nO ritmo da apuração está nessa ordem..",
+            "author_username": "dddreytx92",
+            "author_name": "dddreytx92",
+            "created_at": "2026-10-25T22:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dddreytx92/status/2114484544841597165#m",
+            "metrics": {
+              "like_count": 530,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114484524390224308",
+            "text": "Me expliquem porque Norte e Nordeste estão sendo apurado os votos primeiro ,não era o contrário?\n\n #Eleições2026",
+            "author_username": "maozinhareality",
+            "author_name": "maozinhareality",
+            "created_at": "2026-10-25T22:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/maozinhareality/status/2114484524390224308#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 2,
+              "retweet_count": 2,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114484171611439263",
+            "text": "ORGULHO DE SER DO NORTE. ORGULHO DE SER CABANO. ORGULHO DO MEU POVO.",
+            "author_username": "eu_leoreis",
+            "author_name": "eu_leoreis",
+            "created_at": "2026-10-25T22:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/eu_leoreis/status/2114484171611439263#m",
+            "metrics": {
+              "like_count": 81,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114483519778889822",
+            "text": "As regiões Norte ⬆️ e Nordeste ↗️ Irão salvar a democracia Brasileira novamente...Muita Gratidão 🙏 #LulaVaiVencer1️⃣3️⃣ #LulaPelaDemocracia",
+            "author_username": "PauloMaurc91580",
+            "author_name": "PauloMaurc91580",
+            "created_at": "2026-10-25T22:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PauloMaurc91580/status/2114483519778889822#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471670551363594",
+            "text": "Nesta começou pela falta de transporte nos rios do norte, depois ônibus e aviões. Tipo em 2002 com alguns policiais federais. A eleição deveria ser anulada e remarcada. Mais uma tentativa de golpe da direita.",
+            "author_username": "TvcallN",
+            "author_name": "TvcallN",
+            "created_at": "2026-10-25T21:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TvcallN/status/2114471670551363594#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114464800948514853",
+            "text": "Ok..\nMas imagina duas horas la pro norte e nordeste, mesarios com as urnas a vontade ..\nQuem não foi votar,vao computar voto\n.vao votar por eles",
+            "author_username": "TarcesP",
+            "author_name": "TarcesP",
+            "created_at": "2026-10-25T21:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TarcesP/status/2114464800948514853#m",
+            "metrics": {
+              "like_count": 59,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114464737714929934",
+            "text": "Desde 22 esse negócio de votos do nordeste por último não existe mais. O que acontece é que urnas em lugares de acesso mais difícil demoram um pouco mais para chegar nos resultados. No norte e nordeste tem muito colégio eleitoral em lugar remoto.",
+            "author_username": "pietrouniverso",
+            "author_name": "pietrouniverso",
+            "created_at": "2026-10-25T21:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/pietrouniverso/status/2114464737714929934#m",
+            "metrics": {
+              "like_count": 326,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114458238393729228",
+            "text": "O detalhe é completarem a votação de quem não compareceram no nordeste e norte.",
+            "author_username": "cavalcante900",
+            "author_name": "cavalcante900",
+            "created_at": "2026-10-25T20:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cavalcante900/status/2114458238393729228#m",
+            "metrics": {
+              "like_count": 70,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114455421549515182",
+            "text": "A campanha de Flávio também pediu para prorrogar a eleição, vai ser tenso, acho que Flávio vai ser desfavorecida com essa decisão, pqp. Sou de salvador e aqui a roubalheira é escancarada, o que deve acontecer em todo o nordeste e parte do norte",
+            "author_username": "carlossouz59412",
+            "author_name": "carlossouz59412",
+            "created_at": "2026-10-25T20:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/carlossouz59412/status/2114455421549515182#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114453017781035385",
+            "text": "Mais de 400 km e quase 7 horas de viagem para votar. Valeu cada quilômetro e cada minuto. Cumpri meu dever por mim e pelos meus irmãos brasileiros, de norte a sul. 🇧🇷\n\n#Brasil #Flávio22",
+            "author_username": "thiagom_bsb",
+            "author_name": "thiagom_bsb",
+            "created_at": "2026-10-25T20:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/thiagom_bsb/status/2114453017781035385#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114447586903851015",
+            "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T20:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447586903851015#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114447481971077309",
+            "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T20:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447481971077309#m",
+            "metrics": {
+              "like_count": 766,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114447271287034022",
+            "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T20:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447271287034022#m",
+            "metrics": {
+              "like_count": 60,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114447216735895620",
+            "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T20:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447216735895620#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114439786220142682",
+            "text": "O prefeito de São Paulo está boicotando a eleição tirando ônibus de circulação da Zona leste, sul e norte\n\nVocê que tem carro e pode ajudar \nVá pras ruas levar as pessoas dos ônibus pro lugar de votação \n\nCarona solidária urgente \n\n#ProrrogacaoJa #ProrrogaTSE",
+            "author_username": "Lihmiguel",
+            "author_name": "Lihmiguel",
+            "created_at": "2026-10-25T19:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Lihmiguel/status/2114439786220142682#m",
+            "metrics": {
+              "like_count": 149,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 5
+            }
+          },
+          {
+            "id": "2114434229203349910",
+            "text": "Candidatos votaram na manhã deste domingo (25), fizeram declarações sobre a campanha e reforçaram mensagens direcionadas ao eleitorado.\n\nO presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, votaram na manhã deste domingo (25), no segundo turno das eleições de 2026.\n\nFlávio Bolsonaro votou por volta das 8h20, na Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro. Após votar, afirmou que o país precisa de uma mudança de rumo e citou a segurança pública e as dificuldades financeiras enfrentadas pelos brasileiros.\n\n“Chegou a hora da mudança de verdade”, declarou o candidato, que também pediu aos eleitores que comparecessem às urnas.\n\nLula votou por volta das 9h30, em São Bernardo do Campo, na Grande São Paulo, acompanhado da primeira-dama Janja Lula da Silva e do vice-presidente Geraldo Alckmin (PSB).\n\nApós votar, o presidente agradeceu o apoio recebido durante a campanha e destacou a mobilização de apoiadores nas ruas. Lula também fez críticas ao adversário e defendeu o respeito ao resultado das urnas.\n\nO segundo turno define quem ocupará a Presidência da República pelos próximos quatro anos. A votação ocorre das 8h às 17h, pelo horário de Brasília, e a apuração começa após o encerramento da votação.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Divulgação\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleições2026",
+            "author_username": "TVMetroPiracity",
+            "author_name": "TVMetroPiracity",
+            "created_at": "2026-10-25T19:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TVMetroPiracity/status/2114434229203349910#m",
+            "metrics": {
+              "like_count": 147,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114433956460327277",
+            "text": "Acorda pra vida, central! No Norte e no Nordeste as pessoas estao sendo impedidas de votar. Não tem onibus nas ruas!!!!!! Estas em que mundo? @TSEjusbr",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T19:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114433956460327277#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 18
+            }
+          },
+          {
+            "id": "2114424797061161237",
+            "text": "NORTE NORDESTE E SUDESTE PRECISAM TER HORARIO DE VOTO PRORROGADO ATÉ  AS 19HRS @TSEjusbr não estamos vendo os mesmos problemas em regiões em que o Flávio Bolsonaro foi eleito com facilidade no primeiro turno, vocês serão coniventes ao Golpe?",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T18:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114424797061161237#m",
+            "metrics": {
+              "like_count": 67,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114420772466806932",
+            "text": "Mas, muita gente desistiu de votar. A história acontece em todo nordeste, norte e SP.",
+            "author_username": "mar13_sand",
+            "author_name": "mar13_sand",
+            "created_at": "2026-10-25T18:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mar13_sand/status/2114420772466806932#m",
+            "metrics": {
+              "like_count": 115,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114419470907433045",
+            "text": "Tem bastante ônibus circulando. Zona Norte normal",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-25T18:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2114419470907433045#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114415165550596217",
+            "text": "Lago Norte com Lula",
+            "author_username": "luigiberzoini",
+            "author_name": "luigiberzoini",
+            "created_at": "2026-10-25T17:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/luigiberzoini/status/2114415165550596217#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114396103793955072",
+            "text": "Tijuca em sua maioria, usando adesivo do Lula e indo votar sem medo. Orgulho demais do meu país localizado na Zona Norte do Rio de Janeiro.",
+            "author_username": "soueucacau",
+            "author_name": "soueucacau",
+            "created_at": "2026-10-25T16:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/soueucacau/status/2114396103793955072#m",
+            "metrics": {
+              "like_count": 440,
+              "reply_count": 2,
+              "retweet_count": 1,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114393672447918099",
+            "text": "Mais tarde o nordeste e norte entra pra fazer lula presidente mais uma vez ❤️",
+            "author_username": "opoetadaluz",
+            "author_name": "opoetadaluz",
+            "created_at": "2026-10-25T16:28:00+00:00",
+            "permalink": "https://nitter.meowing.monster/opoetadaluz/status/2114393672447918099#m",
+            "metrics": {
+              "like_count": 60,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114386108616188374",
+            "text": "Juazeiro do Norte CE vai votar até de cavalo!! É 13, Lula Presidente!!!",
+            "author_username": "leia__sempre",
+            "author_name": "leia__sempre",
+            "created_at": "2026-10-25T15:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/leia__sempre/status/2114386108616188374#m",
+            "metrics": {
+              "like_count": 52,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114381188743762408",
+            "text": "Puxado pelo japão. É como se vc tivesse usando como parametro as urnas tendo começado pelo brasil, no sul com sc, pr, e rs com somente o rio grande do norte pra comparar",
+            "author_username": "Citizenleds",
+            "author_name": "Citizenleds",
+            "created_at": "2026-10-25T15:38:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Citizenleds/status/2114381188743762408#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114375937064128721",
+            "text": "Norte e nordeste",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-25T15:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alepublicidades/status/2114375937064128721#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114373623947387318",
+            "text": "Não tem transporte no Norte e Nordeste. E o @ptbrasil olhando escola vazia. \nEstou revoltada.",
+            "author_username": "mar13_sand",
+            "author_name": "mar13_sand",
+            "created_at": "2026-10-25T15:08:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mar13_sand/status/2114373623947387318#m",
+            "metrics": {
+              "like_count": 502,
+              "reply_count": 8,
+              "retweet_count": 14,
+              "quote_count": 35
+            }
+          },
+          {
+            "id": "2114372570749305324",
+            "text": "Norte e nordeste",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-25T15:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alepublicidades/status/2114372570749305324#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114372191445713262",
+            "text": "Norte e nordeste vai ser a virada",
+            "author_username": "alepublicidades",
+            "author_name": "alepublicidades",
+            "created_at": "2026-10-25T15:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alepublicidades/status/2114372191445713262#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114349416601587817",
+            "text": "Vcs precisam estudar geografia, gente\nO litoral norte de São Paulo faz divisa com o estado do Rio e é basicamente o mesmo bioma",
+            "author_username": "lovesensation27",
+            "author_name": "lovesensation27",
+            "created_at": "2026-10-25T13:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/lovesensation27/status/2114349416601587817#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114339464499597670",
+            "text": "A defesa da democracia, liberdade  e soberania do pais e dos brasileiros estão nas mãos do Nordeste e Norte",
+            "author_username": "Teo1650604",
+            "author_name": "Teo1650604",
+            "created_at": "2026-10-25T12:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Teo1650604/status/2114339464499597670#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114322219358670891",
+            "text": "🇧🇷❗️ AGORA — Flávio Bolsonaro vota na seção eleitoral da Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro",
+            "author_username": "ArturEMDutra",
+            "author_name": "ArturEMDutra",
+            "created_at": "2026-10-25T11:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ArturEMDutra/status/2114322219358670891#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 1,
+              "retweet_count": 9,
+              "quote_count": 54
+            }
+          },
+          {
+            "id": "2114295858707529898",
+            "text": "Aqui é Ribeirinhos, aqui é  Cametá,  aqui é Pará,  aqui é Norte. 13 neles.",
+            "author_username": "ester_vulcao",
+            "author_name": "ester_vulcao",
+            "created_at": "2026-10-25T09:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ester_vulcao/status/2114295858707529898#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114278123772461417",
+            "text": "Ele tem mais é que se fuder. Que vá para o inferno e chegando, será obrigado a descarregar caminhões de enxofre com pá de cabo quente para arrancar o couro da mão, para pagar pelo fome e o sofrimento do povo norte coreano. Ele comia o que há de melhor no planeta, se fu!",
+            "author_username": "Marciopaulada68",
+            "author_name": "Marciopaulada68",
+            "created_at": "2026-10-25T08:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Marciopaulada68/status/2114278123772461417#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114242176863371566",
+            "text": "⚡ O Brasil pode e deve fazer a proeza de preservar a inigualável BIODIVERSIDADE da Amazônia e simultaneamente permitir atividade econômica para gerar riqueza! Os piores indicadore socioeconômicos do BR estão no Norte! Infraestrutura em pontos estratégicos não vai criar deserto!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114242176863371566#m",
+            "metrics": {
+              "like_count": 62,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114239709379518955",
+            "text": "Quando vc descobre que a existência do colegio eleitoral se da pela escravidão nos eua, tudo isso pra equilibrar o norte e o sul com o compromisso dos 3 quintos 🤩",
+            "author_username": "Luxana_Malkov",
+            "author_name": "Luxana_Malkov",
+            "created_at": "2026-10-25T06:16:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Luxana_Malkov/status/2114239709379518955#m",
+            "metrics": {
+              "like_count": 71,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114239281736659347",
+            "text": "Hoje começa a Copa do Mundo de Clubes Feminina 2027 ⚽ o Naegohyang da Coreia do Norte enfrente o Auckland United da Nova Zelândia pela primeira fase ! Outras equipes aguardando adversário são o América do Maxico e o Barcelona da Espanha !",
+            "author_username": "PaixaoAoFutebol",
+            "author_name": "PaixaoAoFutebol",
+            "created_at": "2026-10-25T06:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PaixaoAoFutebol/status/2114239281736659347#m",
+            "metrics": {
+              "like_count": 82,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114236497670889669",
+            "text": "⚡ Saneamento também é ambientalismo. Mas a ideia da floresta intocada é ingênua e perigosa. As ONGs a querem intocada pelo Brasil para que sejam exploradas por potências estrangeiras. Jamais transformar o Norte numa Grande SP. Apenas otimizar o que já existe construído.",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114236497670889669#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114216308103434432",
+            "text": "Região Norte, ganhou Flávio",
+            "author_username": "mahtukirenedra",
+            "author_name": "mahtukirenedra",
+            "created_at": "2026-10-25T04:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mahtukirenedra/status/2114216308103434432#m",
+            "metrics": {
+              "like_count": 110,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114208407590691243",
+            "text": "Povo do norte e nordeste votem por nós por todos que são bons votem ⭐13 nós orgulhem de novo",
+            "author_username": "marcodrcardoso",
+            "author_name": "marcodrcardoso",
+            "created_at": "2026-10-25T04:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcodrcardoso/status/2114208407590691243#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114150430045323645",
+            "text": "🚨 DUAS CRIANÇAS SÃO ATROPELADAS DURANTE CARREATA EM ILHABELA\n\nUm homem foi preso após atropelar duas crianças durante uma carreata política na tarde deste sábado (24), em Ilhabela, no Litoral Norte de São Paulo.\n\nO caso aconteceu na Rua Gerson Peres de Araújo, na região da Barra Velha. Segundo informações da Polícia Militar, testemunhas relataram que o motorista saiu da fila de veículos, avançou pela calçada e atingiu as duas crianças.\n\nAs vítimas foram socorridas pelo SAMU e levadas ao Hospital Municipal Governador Mário Covas Júnior.\n\nUma das vítimas, uma menina de 9 anos, sofreu fraturas na tíbia e na fíbula da perna direita. Segundo informações divulgadas sobre o atendimento médico, ela passou por um procedimento para reposicionar os ossos, está estável e permanece internada com a perna imobilizada. Um menino de 5 anos também foi atendido e permanece em observação.\n\nO motorista foi contido por pessoas que estavam no local e, posteriormente, preso pela Polícia Militar e encaminhado à delegacia.\n\nO veículo aparece nas imagens com adesivos de apoio ao presidente Lula (PT), enquanto o evento reunia apoiadores de Flávio Bolsonaro (PL). Apesar da repercussão política do caso, a motivação do atropelamento ainda não foi oficialmente esclarecida e deverá ser investigada pelas autoridades.\n\nO Metrópoles também informou que havia uma lata de cerveja dentro do veículo e que o motorista apresentava sinais de embriaguez. Essa informação ainda depende da confirmação oficial pelas autoridades.\n\n📹 Imagens: reprodução/redes sociais\n\n🔴 Impacto Notícia\nA notícia acontece. A gente mostra.\n\n#ImpactoNotícia #Ilhabela #LitoralNorte #SãoPaulo #Atropelamento #Acidente #Crianças #Carreata #FlávioBolsonaro #Lula #Polícia #NotíciasSP #Urgente",
+            "author_username": "denissferraz",
+            "author_name": "denissferraz",
+            "created_at": "2026-10-25T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/denissferraz/status/2114150430045323645#m",
+            "metrics": {
+              "like_count": 41,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114143331529764953",
+            "text": "Tá tendo queimada lá no norte aí comentei num post no insta q achava ridículo quem fica cobrando artista eq eles tinhamq reclamar com o governador aí começaram a me cancelar pq ele é um coitado vítima da sociedade e quem tem q resolver o problema são os artistas m??????????????",
+            "author_username": "Yuujiwashere",
+            "author_name": "Yuujiwashere",
+            "created_at": "2026-10-24T23:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Yuujiwashere/status/2114143331529764953#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114142494892110247",
+            "text": "Respeita o NORTE! ✊🏻✊🏻✊🏻✊🏻1️⃣3️⃣\n\n#EuVotoFazendoL \n#LulaVaiVencer\n#ExercitoDoLula\n#LulaMaiorEstadista",
+            "author_username": "kapetine",
+            "author_name": "kapetine",
+            "created_at": "2026-10-24T23:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/kapetine/status/2114142494892110247#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114141711194591379",
+            "text": "NÓS DO NORTE NÃO QUEREMOS, MANDAMOS PRA ARGENTINA",
+            "author_username": "GarotaErrada08",
+            "author_name": "GarotaErrada08",
+            "created_at": "2026-10-24T23:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GarotaErrada08/status/2114141711194591379#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114141554545774657",
+            "text": "O Norte tá na guerra pra derrubar o bolsonazismo! ✊🏻1️⃣3️⃣🌟🌟🌟🌟\n\n#EuVotoFazendoL\n#BelemComLula\n#ExercitoDoLula\n#LULAVaiVencer\n#LulaMaiorEstadista",
+            "author_username": "kapetine",
+            "author_name": "kapetine",
+            "created_at": "2026-10-24T23:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/kapetine/status/2114141554545774657#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114140243465031755",
+            "text": "EU MANDEI FAZER ESSE BONÉ NO RIO GRANDE DO NORTE. E BORA LULA!\ninstagram.com/p/De5Vb7rx038/…",
+            "author_username": "AzenateFerreira",
+            "author_name": "AzenateFerreira",
+            "created_at": "2026-10-24T23:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AzenateFerreira/status/2114140243465031755#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114129592935944350",
+            "text": "No Rio Grande do Norte tá caminhando para passar dos 60% a votação do Lula e para uma vitória de Cadu de Lula",
+            "author_username": "FALANDOFRA77824",
+            "author_name": "FALANDOFRA77824",
+            "created_at": "2026-10-24T22:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FALANDOFRA77824/status/2114129592935944350#m",
+            "metrics": {
+              "like_count": 116,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114126398176760023",
+            "text": "Que maravilha o norte brasileiro.",
+            "author_username": "dadobarrozo",
+            "author_name": "dadobarrozo",
+            "created_at": "2026-10-24T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/dadobarrozo/status/2114126398176760023#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114115746435567793",
+            "text": "chorando no estacionamento do atacadão com o funcionários metendo o pau no tariflavio ao mesmo tempo que assisto vídeos de todo norte e nordeste se movimentando pra ir votar É SOBRE ISSO",
+            "author_username": "brendhaverso",
+            "author_name": "brendhaverso",
+            "created_at": "2026-10-24T22:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brendhaverso/status/2114115746435567793#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114551779098558859",
+            "text": "Norte, Nordeste e Minas Gerais ❤️🇧🇷⭐",
+            "author_username": "Aleatorioo01o",
+            "author_name": "Aleatorioo01o",
+            "created_at": "2026-10-26T02:56:00+00:00",
+            "permalink": "https://nitter.xitter.cc/Aleatorioo01o/status/2114551779098558859#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114515642980372718",
+            "text": "OBRIGADAAAA AO NORTE E NORDESTE, NINGUÉM PODE COM VOCÊS, GRATIDÃO AOS ESTUDANTES CORAJOSOS E MILITANTES MARAVILHOSOS! \nSEREMOS O EXÉRCITO DE LULA! 🇧🇷\nMELHOR PRESIDENTE DA HISTÓRIA DO BRASIL! \nE TETRA! \nPARABÉNS LULA! 🇧🇷\n#LulaOMaiorDeTodos \n#LulaTetra \n#LulaPreside",
+            "author_username": "nastenka1962",
+            "author_name": "nastenka1962",
+            "created_at": "2026-10-26T00:33:00+00:00",
+            "permalink": "https://nitter.xitter.cc/nastenka1962/status/2114515642980372718#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 10,
+          "instance_used": "https://nitter.xitter.cc"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114546627008688325",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114546627008688325",
+      "collected_at": "2026-10-25T23:59:47-03:00",
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114546627008688325",
+        "text": "Eu sou a favor que o Brasil se divida em dois o Brasil sul do progresso e o Brasil do norte que é do atraso eu quero ficar no Brasil do progresso",
+        "author_username": "HelitonSen67684",
+        "author_name": "HelitonSen67684",
+        "created_at": "2026-10-26T02:36:00+00:00",
+        "permalink": "https://nitter.meowing.monster/HelitonSen67684/status/2114546627008688325#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114551779098558859",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114551779098558859",
+      "collected_at": "2026-10-25T23:59:47-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114551779098558859",
+        "text": "Norte, Nordeste e Minas Gerais ❤️🇧🇷⭐",
+        "author_username": "Aleatorioo01o",
+        "author_name": "Aleatorioo01o",
+        "created_at": "2026-10-26T02:56:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Aleatorioo01o/status/2114551779098558859#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
