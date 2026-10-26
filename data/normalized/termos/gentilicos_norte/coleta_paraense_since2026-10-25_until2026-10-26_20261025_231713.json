@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_norte",
+    "query": "paraense",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+    "collected_at": "2026-10-25T23:17:13-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 2
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114530076935237718",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114530076935237718",
+      "parent_post_id": null,
+      "thread_root_id": "2114530076935237718",
+      "author": {
+        "platform_id": null,
+        "display_name": "gigiogigigio",
+        "username": "gigiogigigio",
+        "profile_url": "https://x.com/gigiogigigio"
+      },
+      "text": "VIVA O POVO CABANO\nVIVA OS POVOS INDÍGENAS\nVIVA OS QUILOMBOLAS\nVIVA OS RIBEIRINHOS\nVIVA O POVO PARAENSE\n\nVAMOS CARIMBOLAR\n\nvídeo: @DiraPaes",
+      "created_at": "2026-10-26T01:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:17:13-03:00",
+      "permalink": "https://nitter.netbub.com/gigiogigigio/status/2114530076935237718#m",
+      "metrics": {
+        "like_count": 29,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Gentílicos — Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "paraense",
+        "term_group_id": "gentilicos_norte",
+        "term_label": "Gentílicos — Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114530076935237718",
+        "text": "VIVA O POVO CABANO\nVIVA OS POVOS INDÍGENAS\nVIVA OS QUILOMBOLAS\nVIVA OS RIBEIRINHOS\nVIVA O POVO PARAENSE\n\nVAMOS CARIMBOLAR\n\nvídeo: @DiraPaes",
+        "author_username": "gigiogigigio",
+        "author_name": "gigiogigigio",
+        "created_at": "2026-10-26T01:30:00+00:00",
+        "permalink": "https://nitter.netbub.com/gigiogigigio/status/2114530076935237718#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 139,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114385233374020034",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114385233374020034",
+      "parent_post_id": null,
+      "thread_root_id": "2114385233374020034",
+      "author": {
+        "platform_id": null,
+        "display_name": "brunodiaspara",
+        "username": "brunodiaspara",
+        "profile_url": "https://x.com/brunodiaspara"
+      },
+      "text": "Orgulho de ser paraense, de ter um urubu de criação. Égua, pai d’égua! 🤍💙❤️\n\n#ParaPaiDegua #nomeiodopitiú",
+      "created_at": "2026-10-25T15:54:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:17:13-03:00",
+      "permalink": "https://nitter.xitter.cc/brunodiaspara/status/2114385233374020034#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "paraense",
+        "term_group_id": "gentilicos_norte",
+        "term_label": "Gentílicos — Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 9,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114385233374020034",
+        "text": "Orgulho de ser paraense, de ter um urubu de criação. Égua, pai d’égua! 🤍💙❤️\n\n#ParaPaiDegua #nomeiodopitiú",
+        "author_username": "brunodiaspara",
+        "author_name": "brunodiaspara",
+        "created_at": "2026-10-25T15:54:00+00:00",
+        "permalink": "https://nitter.xitter.cc/brunodiaspara/status/2114385233374020034#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 105,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
