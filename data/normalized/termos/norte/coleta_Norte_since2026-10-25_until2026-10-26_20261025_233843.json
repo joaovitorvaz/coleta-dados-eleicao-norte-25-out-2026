@@ -1,0 +1,2892 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "Norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+    "collected_at": "2026-10-25T23:38:43-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 43,
+      "comments": 0,
+      "records_total": 43,
+      "skipped_duplicate": 28
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114538731684131200",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114538731684131200",
+      "parent_post_id": null,
+      "thread_root_id": "2114538731684131200",
+      "author": {
+        "platform_id": null,
+        "display_name": "anacristinalp",
+        "username": "anacristinalp",
+        "profile_url": "https://x.com/anacristinalp"
+      },
+      "text": "Norte e Nordeste contra o filho da peste!\n\nVencemos",
+      "created_at": "2026-10-26T02:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/anacristinalp/status/2114538731684131200#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114538731684131200",
+        "text": "Norte e Nordeste contra o filho da peste!\n\nVencemos",
+        "author_username": "anacristinalp",
+        "author_name": "anacristinalp",
+        "created_at": "2026-10-26T02:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/anacristinalp/status/2114538731684131200#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 51,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114538723178086500",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114538723178086500",
+      "parent_post_id": null,
+      "thread_root_id": "2114538723178086500",
+      "author": {
+        "platform_id": null,
+        "display_name": "ssalomao13",
+        "username": "ssalomao13",
+        "profile_url": "https://x.com/ssalomao13"
+      },
+      "text": "Digo o mesmo, e eu sou do norte de minas, região que é maioria de esquerda, vim para o sul para trabalhar, e votei em Flávio aqui, enquanto meus conterrâneos faziam cagada lá no norte, petismo é burrice misturada com doença.",
+      "created_at": "2026-10-26T02:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/ssalomao13/status/2114538723178086500#m",
+      "metrics": {
+        "like_count": 43,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114538723178086500",
+        "text": "Digo o mesmo, e eu sou do norte de minas, região que é maioria de esquerda, vim para o sul para trabalhar, e votei em Flávio aqui, enquanto meus conterrâneos faziam cagada lá no norte, petismo é burrice misturada com doença.",
+        "author_username": "ssalomao13",
+        "author_name": "ssalomao13",
+        "created_at": "2026-10-26T02:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ssalomao13/status/2114538723178086500#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 224,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114535413608013922",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114535413608013922",
+      "parent_post_id": null,
+      "thread_root_id": "2114535413608013922",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Valeu meu nordeste pesado, meus ancestrais, que saíram na garra, na luta, valeu ao norte que se recuperou sua lucidez e valeu Minas Gerais, nossa vizinha, sabe das nossas lutas porque é bem parecida com nossa energia...valeu aos blogs, a união 🫂",
+      "created_at": "2026-10-26T01:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114535413608013922#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114535413608013922",
+        "text": "Valeu meu nordeste pesado, meus ancestrais, que saíram na garra, na luta, valeu ao norte que se recuperou sua lucidez e valeu Minas Gerais, nossa vizinha, sabe das nossas lutas porque é bem parecida com nossa energia...valeu aos blogs, a união 🫂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-26T01:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114535413608013922#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 245,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114532370766311436",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114532370766311436",
+      "parent_post_id": null,
+      "thread_root_id": "2114532370766311436",
+      "author": {
+        "platform_id": null,
+        "display_name": "brunofss_",
+        "username": "brunofss_",
+        "profile_url": "https://x.com/brunofss_"
+      },
+      "text": "Essa eleições foi histórica, começou com jovens em Niterói e desencadeou em atos por todo o Brasil e o vira voto, cada votinho fez a diferença e elegeu o Lula e o tetr4 veio, e a estrela brilhou \n🌟🇧🇷❤️ eu tô emocionado!!! Obgg meu Norte, obgg Nordeste!! E obgg a Minas e todos!!",
+      "created_at": "2026-10-26T01:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/brunofss_/status/2114532370766311436#m",
+      "metrics": {
+        "like_count": 74,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114532370766311436",
+        "text": "Essa eleições foi histórica, começou com jovens em Niterói e desencadeou em atos por todo o Brasil e o vira voto, cada votinho fez a diferença e elegeu o Lula e o tetr4 veio, e a estrela brilhou \n🌟🇧🇷❤️ eu tô emocionado!!! Obgg meu Norte, obgg Nordeste!! E obgg a Minas e todos!!",
+        "author_username": "brunofss_",
+        "author_name": "brunofss_",
+        "created_at": "2026-10-26T01:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/brunofss_/status/2114532370766311436#m",
+        "metrics": {
+          "like_count": 74,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 278,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114529716342333637",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114529716342333637",
+      "parent_post_id": null,
+      "thread_root_id": "2114529716342333637",
+      "author": {
+        "platform_id": null,
+        "display_name": "ssalomao13",
+        "username": "ssalomao13",
+        "profile_url": "https://x.com/ssalomao13"
+      },
+      "text": "Eu saí de Janaúba no norte de minas e vim para pouso alegre no sul de minas para trabalhar, e essa votação expressiva no norte de minas não me surpreende, que separe mesmo.",
+      "created_at": "2026-10-26T01:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/ssalomao13/status/2114529716342333637#m",
+      "metrics": {
+        "like_count": 331,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 6
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114529716342333637",
+        "text": "Eu saí de Janaúba no norte de minas e vim para pouso alegre no sul de minas para trabalhar, e essa votação expressiva no norte de minas não me surpreende, que separe mesmo.",
+        "author_username": "ssalomao13",
+        "author_name": "ssalomao13",
+        "created_at": "2026-10-26T01:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ssalomao13/status/2114529716342333637#m",
+        "metrics": {
+          "like_count": 331,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114528295832199359",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114528295832199359",
+      "parent_post_id": null,
+      "thread_root_id": "2114528295832199359",
+      "author": {
+        "platform_id": null,
+        "display_name": "luckegadinho",
+        "username": "luckegadinho",
+        "profile_url": "https://x.com/luckegadinho"
+      },
+      "text": "É A MAIOR CIDADE DO NORTE, FALA MAAAAAAIS!!!",
+      "created_at": "2026-10-26T01:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/luckegadinho/status/2114528295832199359#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114528295832199359",
+        "text": "É A MAIOR CIDADE DO NORTE, FALA MAAAAAAIS!!!",
+        "author_username": "luckegadinho",
+        "author_name": "luckegadinho",
+        "created_at": "2026-10-26T01:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/luckegadinho/status/2114528295832199359#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114521750687949006",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521750687949006",
+      "parent_post_id": null,
+      "thread_root_id": "2114521750687949006",
+      "author": {
+        "platform_id": null,
+        "display_name": "fefe2278",
+        "username": "fefe2278",
+        "profile_url": "https://x.com/fefe2278"
+      },
+      "text": "Se o Looladrão não mantivesse o Norte e o Nordeste na miséria eles não teriam que ir embora para outros estados, então votam em agradecimento pela oportunidade de conhecer outros lugares kkkkkkk",
+      "created_at": "2026-10-26T00:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/fefe2278/status/2114521750687949006#m",
+      "metrics": {
+        "like_count": 73,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114521750687949006",
+        "text": "Se o Looladrão não mantivesse o Norte e o Nordeste na miséria eles não teriam que ir embora para outros estados, então votam em agradecimento pela oportunidade de conhecer outros lugares kkkkkkk",
+        "author_username": "fefe2278",
+        "author_name": "fefe2278",
+        "created_at": "2026-10-26T00:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fefe2278/status/2114521750687949006#m",
+        "metrics": {
+          "like_count": 73,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 194,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114521449654276142",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521449654276142",
+      "parent_post_id": null,
+      "thread_root_id": "2114521449654276142",
+      "author": {
+        "platform_id": null,
+        "display_name": "alexandrefv",
+        "username": "alexandrefv",
+        "profile_url": "https://x.com/alexandrefv"
+      },
+      "text": "O Nordeste, o Norte e Minas Gerais salvaram o Brasil da extrema-direita.",
+      "created_at": "2026-10-26T00:56:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/alexandrefv/status/2114521449654276142#m",
+      "metrics": {
+        "like_count": 62,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114521449654276142",
+        "text": "O Nordeste, o Norte e Minas Gerais salvaram o Brasil da extrema-direita.",
+        "author_username": "alexandrefv",
+        "author_name": "alexandrefv",
+        "created_at": "2026-10-26T00:56:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alexandrefv/status/2114521449654276142#m",
+        "metrics": {
+          "like_count": 62,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 72,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114521152777294138",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114521152777294138",
+      "parent_post_id": null,
+      "thread_root_id": "2114521152777294138",
+      "author": {
+        "platform_id": null,
+        "display_name": "MonteiroNelma",
+        "username": "MonteiroNelma",
+        "profile_url": "https://x.com/MonteiroNelma"
+      },
+      "text": "Com 50,71 por cento dos votos válidos,Cadu de Lula foi eleito Governador do Rio Grande do Norte.\nCarlos Eduardo Xavier,o Cadu de Lula,foi secretário do governo de Fátima Bezerra (PT/RN)tem 48 snos e pela primeira vez concorre a uma cargo eletivo.",
+      "created_at": "2026-10-26T00:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/MonteiroNelma/status/2114521152777294138#m",
+      "metrics": {
+        "like_count": 47,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114521152777294138",
+        "text": "Com 50,71 por cento dos votos válidos,Cadu de Lula foi eleito Governador do Rio Grande do Norte.\nCarlos Eduardo Xavier,o Cadu de Lula,foi secretário do governo de Fátima Bezerra (PT/RN)tem 48 snos e pela primeira vez concorre a uma cargo eletivo.",
+        "author_username": "MonteiroNelma",
+        "author_name": "MonteiroNelma",
+        "created_at": "2026-10-26T00:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MonteiroNelma/status/2114521152777294138#m",
+        "metrics": {
+          "like_count": 47,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 246,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114516660346355914",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114516660346355914",
+      "parent_post_id": null,
+      "thread_root_id": "2114516660346355914",
+      "author": {
+        "platform_id": null,
+        "display_name": "pernalongagio",
+        "username": "pernalongagio",
+        "profile_url": "https://x.com/pernalongagio"
+      },
+      "text": "OS VENTOS DO NORTE NÃO MOVEM MOINHO\n\n#LulaOMaiorDeTodos #LulaEleito #TocantinsComLula #lula",
+      "created_at": "2026-10-26T00:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/pernalongagio/status/2114516660346355914#m",
+      "metrics": {
+        "like_count": 65,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 5
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114516660346355914",
+        "text": "OS VENTOS DO NORTE NÃO MOVEM MOINHO\n\n#LulaOMaiorDeTodos #LulaEleito #TocantinsComLula #lula",
+        "author_username": "pernalongagio",
+        "author_name": "pernalongagio",
+        "created_at": "2026-10-26T00:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pernalongagio/status/2114516660346355914#m",
+        "metrics": {
+          "like_count": 65,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 5
+        }
+      },
+      "normalized": {
+        "text_length": 91,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515207355588983",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515207355588983",
+      "parent_post_id": null,
+      "thread_root_id": "2114515207355588983",
+      "author": {
+        "platform_id": null,
+        "display_name": "seuantialergico",
+        "username": "seuantialergico",
+        "profile_url": "https://x.com/seuantialergico"
+      },
+      "text": "Fizemos história! Juntos somos mais fortes do que imaginamos. Vimos a força que nos uniu de norte a sul e demos o recado. Unimos a direita e a esquerda contra o bolsonarismo e vamos expurgar todos os extremistas até as eleições saudáveis voltarem.\n\nGRANDE DIA!",
+      "created_at": "2026-10-26T00:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/seuantialergico/status/2114515207355588983#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114515207355588983",
+        "text": "Fizemos história! Juntos somos mais fortes do que imaginamos. Vimos a força que nos uniu de norte a sul e demos o recado. Unimos a direita e a esquerda contra o bolsonarismo e vamos expurgar todos os extremistas até as eleições saudáveis voltarem.\n\nGRANDE DIA!",
+        "author_username": "seuantialergico",
+        "author_name": "seuantialergico",
+        "created_at": "2026-10-26T00:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/seuantialergico/status/2114515207355588983#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 260,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513613931032858",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513613931032858",
+      "parent_post_id": null,
+      "thread_root_id": "2114513613931032858",
+      "author": {
+        "platform_id": null,
+        "display_name": "rodrigombl",
+        "username": "rodrigombl",
+        "profile_url": "https://x.com/rodrigombl"
+      },
+      "text": "A sensação que eu tenho é que nunca aprenderemos com nossos erros. Flavio teve um desempenho pior que o do Jair em todos os Estados do Norte, em 2022; no sudeste tambem.\nNao contestamos decisões judiciais bizarras, como a de hoje.\nApenas acreditamos que ia dar certo.",
+      "created_at": "2026-10-26T00:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/rodrigombl/status/2114513613931032858#m",
+      "metrics": {
+        "like_count": 79,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114513613931032858",
+        "text": "A sensação que eu tenho é que nunca aprenderemos com nossos erros. Flavio teve um desempenho pior que o do Jair em todos os Estados do Norte, em 2022; no sudeste tambem.\nNao contestamos decisões judiciais bizarras, como a de hoje.\nApenas acreditamos que ia dar certo.",
+        "author_username": "rodrigombl",
+        "author_name": "rodrigombl",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/rodrigombl/status/2114513613931032858#m",
+        "metrics": {
+          "like_count": 79,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 267,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511989619757234",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511989619757234",
+      "parent_post_id": null,
+      "thread_root_id": "2114511989619757234",
+      "author": {
+        "platform_id": null,
+        "display_name": "Guui_Gs",
+        "username": "Guui_Gs",
+        "profile_url": "https://x.com/Guui_Gs"
+      },
+      "text": "NORDESTE, PARTE DA REGIÃO NORTE E ESPECIALMENTE MINAS GERAIS ESTÃO MARCADOS NA HISTÓRIA DA LUTA PELA DEMOCRACIA NO ANO DE 2026, JAMAIS ESQUECEREMOS SEUS ESFORÇOS",
+      "created_at": "2026-10-26T00:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/Guui_Gs/status/2114511989619757234#m",
+      "metrics": {
+        "like_count": 76,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114511989619757234",
+        "text": "NORDESTE, PARTE DA REGIÃO NORTE E ESPECIALMENTE MINAS GERAIS ESTÃO MARCADOS NA HISTÓRIA DA LUTA PELA DEMOCRACIA NO ANO DE 2026, JAMAIS ESQUECEREMOS SEUS ESFORÇOS",
+        "author_username": "Guui_Gs",
+        "author_name": "Guui_Gs",
+        "created_at": "2026-10-26T00:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Guui_Gs/status/2114511989619757234#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 161,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511784598007915",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511784598007915",
+      "parent_post_id": null,
+      "thread_root_id": "2114511784598007915",
+      "author": {
+        "platform_id": null,
+        "display_name": "Carol_Dolmayan",
+        "username": "Carol_Dolmayan",
+        "profile_url": "https://x.com/Carol_Dolmayan"
+      },
+      "text": "NO RIO GRANDE DO NORTE FASCISTA NÃO SE CRIA!!!!!!!!",
+      "created_at": "2026-10-26T00:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/Carol_Dolmayan/status/2114511784598007915#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114511784598007915",
+        "text": "NO RIO GRANDE DO NORTE FASCISTA NÃO SE CRIA!!!!!!!!",
+        "author_username": "Carol_Dolmayan",
+        "author_name": "Carol_Dolmayan",
+        "created_at": "2026-10-26T00:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Carol_Dolmayan/status/2114511784598007915#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 51,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511321920147774",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511321920147774",
+      "parent_post_id": null,
+      "thread_root_id": "2114511321920147774",
+      "author": {
+        "platform_id": null,
+        "display_name": "RonyeliCarvalho",
+        "username": "RonyeliCarvalho",
+        "profile_url": "https://x.com/RonyeliCarvalho"
+      },
+      "text": "Aprende @nikolas_dm \nQuem manda no Brasil é o Nordeste e o Norte!",
+      "created_at": "2026-10-26T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/RonyeliCarvalho/status/2114511321920147774#m",
+      "metrics": {
+        "like_count": 28,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114511321920147774",
+        "text": "Aprende @nikolas_dm \nQuem manda no Brasil é o Nordeste e o Norte!",
+        "author_username": "RonyeliCarvalho",
+        "author_name": "RonyeliCarvalho",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/RonyeliCarvalho/status/2114511321920147774#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511083906245015",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511083906245015",
+      "parent_post_id": null,
+      "thread_root_id": "2114511083906245015",
+      "author": {
+        "platform_id": null,
+        "display_name": "de_victor2360",
+        "username": "de_victor2360",
+        "profile_url": "https://x.com/de_victor2360"
+      },
+      "text": "Fomos buscar a memória de quem viu esse país melhorar.\n\nViva a Lula, Janones, Renan , MG e todo o Nordeste e Norte. \n\nE os tão importantes das outras regiões. \n\nViva a Jerônimo,  a Fonteles e outros mais.\n\nÉ tetra!!!!",
+      "created_at": "2026-10-26T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114511083906245015#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114511083906245015",
+        "text": "Fomos buscar a memória de quem viu esse país melhorar.\n\nViva a Lula, Janones, Renan , MG e todo o Nordeste e Norte. \n\nE os tão importantes das outras regiões. \n\nViva a Jerônimo,  a Fonteles e outros mais.\n\nÉ tetra!!!!",
+        "author_username": "de_victor2360",
+        "author_name": "de_victor2360",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/de_victor2360/status/2114511083906245015#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 217,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114508904432386284",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114508904432386284",
+      "parent_post_id": null,
+      "thread_root_id": "2114508904432386284",
+      "author": {
+        "platform_id": null,
+        "display_name": "lexsanderbreu",
+        "username": "lexsanderbreu",
+        "profile_url": "https://x.com/lexsanderbreu"
+      },
+      "text": "\"O Norte não Esquece \"\n- Game of Trones\n#LulaReeleito",
+      "created_at": "2026-10-26T00:06:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/lexsanderbreu/status/2114508904432386284#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114508904432386284",
+        "text": "\"O Norte não Esquece \"\n- Game of Trones\n#LulaReeleito",
+        "author_username": "lexsanderbreu",
+        "author_name": "lexsanderbreu",
+        "created_at": "2026-10-26T00:06:00+00:00",
+        "permalink": "https://nitter.meowing.monster/lexsanderbreu/status/2114508904432386284#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 53,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507641686745490",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507641686745490",
+      "parent_post_id": null,
+      "thread_root_id": "2114507641686745490",
+      "author": {
+        "platform_id": null,
+        "display_name": "poxarair",
+        "username": "poxarair",
+        "profile_url": "https://x.com/poxarair"
+      },
+      "text": "Que essa vitória de Lula desça rasgando a guela, que vocês engula toda a sua arrogância e prepotência.  Viva aos nossos idosos, viva aos povos originários, viva ao Norte, Nordeste e todos aqueles que lutaram pelo Brasil, por nossa democracia e soberania, até o fim.",
+      "created_at": "2026-10-26T00:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/poxarair/status/2114507641686745490#m",
+      "metrics": {
+        "like_count": 80,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114507641686745490",
+        "text": "Que essa vitória de Lula desça rasgando a guela, que vocês engula toda a sua arrogância e prepotência.  Viva aos nossos idosos, viva aos povos originários, viva ao Norte, Nordeste e todos aqueles que lutaram pelo Brasil, por nossa democracia e soberania, até o fim.",
+        "author_username": "poxarair",
+        "author_name": "poxarair",
+        "created_at": "2026-10-26T00:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/poxarair/status/2114507641686745490#m",
+        "metrics": {
+          "like_count": 80,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 265,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114505122579636728",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114505122579636728",
+      "parent_post_id": null,
+      "thread_root_id": "2114505122579636728",
+      "author": {
+        "platform_id": null,
+        "display_name": "HelenitoFla",
+        "username": "HelenitoFla",
+        "profile_url": "https://x.com/HelenitoFla"
+      },
+      "text": "Brasil governado por bandido de norte ⬆️ ao ⬇️ sul",
+      "created_at": "2026-10-25T23:51:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/HelenitoFla/status/2114505122579636728#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114505122579636728",
+        "text": "Brasil governado por bandido de norte ⬆️ ao ⬇️ sul",
+        "author_username": "HelenitoFla",
+        "author_name": "HelenitoFla",
+        "created_at": "2026-10-25T23:51:00+00:00",
+        "permalink": "https://nitter.meowing.monster/HelenitoFla/status/2114505122579636728#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 50,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114502224738971951",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114502224738971951",
+      "parent_post_id": null,
+      "thread_root_id": "2114502224738971951",
+      "author": {
+        "platform_id": null,
+        "display_name": "nando_pedro",
+        "username": "nando_pedro",
+        "profile_url": "https://x.com/nando_pedro"
+      },
+      "text": "Minas é um estado muito grande e muito heterogêneo. Entra voto do Triângulo, Bolsonaro passa. Entra voto do Norte e Jequitinhonha Lula passa. Capital tá pau a pau.",
+      "created_at": "2026-10-25T23:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/nando_pedro/status/2114502224738971951#m",
+      "metrics": {
+        "like_count": 55,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Norte",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114502224738971951",
+        "text": "Minas é um estado muito grande e muito heterogêneo. Entra voto do Triângulo, Bolsonaro passa. Entra voto do Norte e Jequitinhonha Lula passa. Capital tá pau a pau.",
+        "author_username": "nando_pedro",
+        "author_name": "nando_pedro",
+        "created_at": "2026-10-25T23:39:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nando_pedro/status/2114502224738971951#m",
+        "metrics": {
+          "like_count": 55,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 163,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114501649007824953",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114501649007824953",
+      "parent_post_id": null,
+      "thread_root_id": "2114501649007824953",
+      "author": {
+        "platform_id": null,
+        "display_name": "eutriscila",
+        "username": "eutriscila",
+        "profile_url": "https://x.com/eutriscila"
+      },
+      "text": "Kkkkkkk nega, eu vou fazer uma romaria pra Aparecida do Norte kkkkkk",
+      "created_at": "2026-10-25T23:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/eutriscila/status/2114501649007824953#m",
+      "metrics": {
+        "like_count": 91,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114501649007824953",
+        "text": "Kkkkkkk nega, eu vou fazer uma romaria pra Aparecida do Norte kkkkkk",
+        "author_username": "eutriscila",
+        "author_name": "eutriscila",
+        "created_at": "2026-10-25T23:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eutriscila/status/2114501649007824953#m",
+        "metrics": {
+          "like_count": 91,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114499112121114858",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114499112121114858",
+      "parent_post_id": null,
+      "thread_root_id": "2114499112121114858",
+      "author": {
+        "platform_id": null,
+        "display_name": "Ramol_",
+        "username": "Ramol_",
+        "profile_url": "https://x.com/Ramol_"
+      },
+      "text": "O Norte e o Nordeste salvando esse pais",
+      "created_at": "2026-10-25T23:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/Ramol_/status/2114499112121114858#m",
+      "metrics": {
+        "like_count": 73,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114499112121114858",
+        "text": "O Norte e o Nordeste salvando esse pais",
+        "author_username": "Ramol_",
+        "author_name": "Ramol_",
+        "created_at": "2026-10-25T23:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Ramol_/status/2114499112121114858#m",
+        "metrics": {
+          "like_count": 73,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 39,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114495855197552685",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114495855197552685",
+      "parent_post_id": null,
+      "thread_root_id": "2114495855197552685",
+      "author": {
+        "platform_id": null,
+        "display_name": "uiuouwill",
+        "username": "uiuouwill",
+        "profile_url": "https://x.com/uiuouwill"
+      },
+      "text": "Estou confiante com a votação até agora\nA porcentagem das urnas do Sul, do Centro-Oeste e do Norte já ultrapassaram 50% e a disputa está acirrada\nO que me preocupa é o sudeste",
+      "created_at": "2026-10-25T23:14:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/uiuouwill/status/2114495855197552685#m",
+      "metrics": {
+        "like_count": 56,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114495855197552685",
+        "text": "Estou confiante com a votação até agora\nA porcentagem das urnas do Sul, do Centro-Oeste e do Norte já ultrapassaram 50% e a disputa está acirrada\nO que me preocupa é o sudeste",
+        "author_username": "uiuouwill",
+        "author_name": "uiuouwill",
+        "created_at": "2026-10-25T23:14:00+00:00",
+        "permalink": "https://nitter.meowing.monster/uiuouwill/status/2114495855197552685#m",
+        "metrics": {
+          "like_count": 56,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 175,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114491525392736627",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114491525392736627",
+      "parent_post_id": null,
+      "thread_root_id": "2114491525392736627",
+      "author": {
+        "platform_id": null,
+        "display_name": "nandoffaria",
+        "username": "nandoffaria",
+        "profile_url": "https://x.com/nandoffaria"
+      },
+      "text": "E lá vai o norte e nordeste resolver de novo \nTnc",
+      "created_at": "2026-10-25T22:57:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/nandoffaria/status/2114491525392736627#m",
+      "metrics": {
+        "like_count": 76,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114491525392736627",
+        "text": "E lá vai o norte e nordeste resolver de novo \nTnc",
+        "author_username": "nandoffaria",
+        "author_name": "nandoffaria",
+        "created_at": "2026-10-25T22:57:00+00:00",
+        "permalink": "https://nitter.meowing.monster/nandoffaria/status/2114491525392736627#m",
+        "metrics": {
+          "like_count": 76,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 49,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114489843225067914",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114489843225067914",
+      "parent_post_id": null,
+      "thread_root_id": "2114489843225067914",
+      "author": {
+        "platform_id": null,
+        "display_name": "deedeeftn",
+        "username": "deedeeftn",
+        "profile_url": "https://x.com/deedeeftn"
+      },
+      "text": "Bolsonaro negou oxigênio para Manaus. Isso é síndrome de Estocolmo. Ter um Bolsonaro vencendo na região Norte é um acinte!",
+      "created_at": "2026-10-25T22:50:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/deedeeftn/status/2114489843225067914#m",
+      "metrics": {
+        "like_count": 270,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 19
+      },
+      "matched_terms": [
+        "Norte",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114489843225067914",
+        "text": "Bolsonaro negou oxigênio para Manaus. Isso é síndrome de Estocolmo. Ter um Bolsonaro vencendo na região Norte é um acinte!",
+        "author_username": "deedeeftn",
+        "author_name": "deedeeftn",
+        "created_at": "2026-10-25T22:50:00+00:00",
+        "permalink": "https://nitter.meowing.monster/deedeeftn/status/2114489843225067914#m",
+        "metrics": {
+          "like_count": 270,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 19
+        }
+      },
+      "normalized": {
+        "text_length": 122,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114489237152129140",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114489237152129140",
+      "parent_post_id": null,
+      "thread_root_id": "2114489237152129140",
+      "author": {
+        "platform_id": null,
+        "display_name": "OficiallGabs",
+        "username": "OficiallGabs",
+        "profile_url": "https://x.com/OficiallGabs"
+      },
+      "text": "Era esperado virar o norte,centro oeste e sul é bolsonaro",
+      "created_at": "2026-10-25T22:48:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/OficiallGabs/status/2114489237152129140#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114489237152129140",
+        "text": "Era esperado virar o norte,centro oeste e sul é bolsonaro",
+        "author_username": "OficiallGabs",
+        "author_name": "OficiallGabs",
+        "created_at": "2026-10-25T22:48:00+00:00",
+        "permalink": "https://nitter.meowing.monster/OficiallGabs/status/2114489237152129140#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 57,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114487719154040977",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114487719154040977",
+      "parent_post_id": null,
+      "thread_root_id": "2114487719154040977",
+      "author": {
+        "platform_id": null,
+        "display_name": "sasadeprimida",
+        "username": "sasadeprimida",
+        "profile_url": "https://x.com/sasadeprimida"
+      },
+      "text": "em desespero vendo os estados do norte que começaram vermelho ficando azul",
+      "created_at": "2026-10-25T22:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/sasadeprimida/status/2114487719154040977#m",
+      "metrics": {
+        "like_count": 17,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114487719154040977",
+        "text": "em desespero vendo os estados do norte que começaram vermelho ficando azul",
+        "author_username": "sasadeprimida",
+        "author_name": "sasadeprimida",
+        "created_at": "2026-10-25T22:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sasadeprimida/status/2114487719154040977#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114486064744485139",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114486064744485139",
+      "parent_post_id": null,
+      "thread_root_id": "2114486064744485139",
+      "author": {
+        "platform_id": null,
+        "display_name": "TvcallN",
+        "username": "TvcallN",
+        "profile_url": "https://x.com/TvcallN"
+      },
+      "text": "Retirar ônibus, cancelar voos, tirar barcos no norte para o @freire_roberto é normal; inclusive a polícia rodoviária federal ter bloqueado eleitores em 2022. Qual seu interesse?",
+      "created_at": "2026-10-25T22:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/TvcallN/status/2114486064744485139#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114486064744485139",
+        "text": "Retirar ônibus, cancelar voos, tirar barcos no norte para o @freire_roberto é normal; inclusive a polícia rodoviária federal ter bloqueado eleitores em 2022. Qual seu interesse?",
+        "author_username": "TvcallN",
+        "author_name": "TvcallN",
+        "created_at": "2026-10-25T22:35:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TvcallN/status/2114486064744485139#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 177,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114484544841597165",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114484544841597165",
+      "parent_post_id": null,
+      "thread_root_id": "2114484544841597165",
+      "author": {
+        "platform_id": null,
+        "display_name": "dddreytx92",
+        "username": "dddreytx92",
+        "profile_url": "https://x.com/dddreytx92"
+      },
+      "text": "Norte \nCentro Oeste\nSul\nNordeste \nSudeste\n\nO ritmo da apuração está nessa ordem..",
+      "created_at": "2026-10-25T22:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/dddreytx92/status/2114484544841597165#m",
+      "metrics": {
+        "like_count": 530,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114484544841597165",
+        "text": "Norte \nCentro Oeste\nSul\nNordeste \nSudeste\n\nO ritmo da apuração está nessa ordem..",
+        "author_username": "dddreytx92",
+        "author_name": "dddreytx92",
+        "created_at": "2026-10-25T22:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/dddreytx92/status/2114484544841597165#m",
+        "metrics": {
+          "like_count": 530,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 81,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114484524390224308",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114484524390224308",
+      "parent_post_id": null,
+      "thread_root_id": "2114484524390224308",
+      "author": {
+        "platform_id": null,
+        "display_name": "maozinhareality",
+        "username": "maozinhareality",
+        "profile_url": "https://x.com/maozinhareality"
+      },
+      "text": "Me expliquem porque Norte e Nordeste estão sendo apurado os votos primeiro ,não era o contrário?\n\n #Eleições2026",
+      "created_at": "2026-10-25T22:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/maozinhareality/status/2114484524390224308#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 2,
+        "retweet_count": 2,
+        "quote_count": 13
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114484524390224308",
+        "text": "Me expliquem porque Norte e Nordeste estão sendo apurado os votos primeiro ,não era o contrário?\n\n #Eleições2026",
+        "author_username": "maozinhareality",
+        "author_name": "maozinhareality",
+        "created_at": "2026-10-25T22:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/maozinhareality/status/2114484524390224308#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2,
+          "quote_count": 13
+        }
+      },
+      "normalized": {
+        "text_length": 112,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114484171611439263",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114484171611439263",
+      "parent_post_id": null,
+      "thread_root_id": "2114484171611439263",
+      "author": {
+        "platform_id": null,
+        "display_name": "eu_leoreis",
+        "username": "eu_leoreis",
+        "profile_url": "https://x.com/eu_leoreis"
+      },
+      "text": "ORGULHO DE SER DO NORTE. ORGULHO DE SER CABANO. ORGULHO DO MEU POVO.",
+      "created_at": "2026-10-25T22:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/eu_leoreis/status/2114484171611439263#m",
+      "metrics": {
+        "like_count": 81,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114484171611439263",
+        "text": "ORGULHO DE SER DO NORTE. ORGULHO DE SER CABANO. ORGULHO DO MEU POVO.",
+        "author_username": "eu_leoreis",
+        "author_name": "eu_leoreis",
+        "created_at": "2026-10-25T22:28:00+00:00",
+        "permalink": "https://nitter.meowing.monster/eu_leoreis/status/2114484171611439263#m",
+        "metrics": {
+          "like_count": 81,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114483519778889822",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114483519778889822",
+      "parent_post_id": null,
+      "thread_root_id": "2114483519778889822",
+      "author": {
+        "platform_id": null,
+        "display_name": "PauloMaurc91580",
+        "username": "PauloMaurc91580",
+        "profile_url": "https://x.com/PauloMaurc91580"
+      },
+      "text": "As regiões Norte ⬆️ e Nordeste ↗️ Irão salvar a democracia Brasileira novamente...Muita Gratidão 🙏 #LulaVaiVencer1️⃣3️⃣ #LulaPelaDemocracia",
+      "created_at": "2026-10-25T22:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/PauloMaurc91580/status/2114483519778889822#m",
+      "metrics": {
+        "like_count": 27,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114483519778889822",
+        "text": "As regiões Norte ⬆️ e Nordeste ↗️ Irão salvar a democracia Brasileira novamente...Muita Gratidão 🙏 #LulaVaiVencer1️⃣3️⃣ #LulaPelaDemocracia",
+        "author_username": "PauloMaurc91580",
+        "author_name": "PauloMaurc91580",
+        "created_at": "2026-10-25T22:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PauloMaurc91580/status/2114483519778889822#m",
+        "metrics": {
+          "like_count": 27,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 139,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114471670551363594",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114471670551363594",
+      "parent_post_id": null,
+      "thread_root_id": "2114471670551363594",
+      "author": {
+        "platform_id": null,
+        "display_name": "TvcallN",
+        "username": "TvcallN",
+        "profile_url": "https://x.com/TvcallN"
+      },
+      "text": "Nesta começou pela falta de transporte nos rios do norte, depois ônibus e aviões. Tipo em 2002 com alguns policiais federais. A eleição deveria ser anulada e remarcada. Mais uma tentativa de golpe da direita.",
+      "created_at": "2026-10-25T21:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/TvcallN/status/2114471670551363594#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "direita",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114471670551363594",
+        "text": "Nesta começou pela falta de transporte nos rios do norte, depois ônibus e aviões. Tipo em 2002 com alguns policiais federais. A eleição deveria ser anulada e remarcada. Mais uma tentativa de golpe da direita.",
+        "author_username": "TvcallN",
+        "author_name": "TvcallN",
+        "created_at": "2026-10-25T21:38:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TvcallN/status/2114471670551363594#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 208,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114464737714929934",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114464737714929934",
+      "parent_post_id": null,
+      "thread_root_id": "2114464737714929934",
+      "author": {
+        "platform_id": null,
+        "display_name": "pietrouniverso",
+        "username": "pietrouniverso",
+        "profile_url": "https://x.com/pietrouniverso"
+      },
+      "text": "Desde 22 esse negócio de votos do nordeste por último não existe mais. O que acontece é que urnas em lugares de acesso mais difícil demoram um pouco mais para chegar nos resultados. No norte e nordeste tem muito colégio eleitoral em lugar remoto.",
+      "created_at": "2026-10-25T21:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/pietrouniverso/status/2114464737714929934#m",
+      "metrics": {
+        "like_count": 325,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114464737714929934",
+        "text": "Desde 22 esse negócio de votos do nordeste por último não existe mais. O que acontece é que urnas em lugares de acesso mais difícil demoram um pouco mais para chegar nos resultados. No norte e nordeste tem muito colégio eleitoral em lugar remoto.",
+        "author_username": "pietrouniverso",
+        "author_name": "pietrouniverso",
+        "created_at": "2026-10-25T21:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/pietrouniverso/status/2114464737714929934#m",
+        "metrics": {
+          "like_count": 325,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 246,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114458238393729228",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114458238393729228",
+      "parent_post_id": null,
+      "thread_root_id": "2114458238393729228",
+      "author": {
+        "platform_id": null,
+        "display_name": "cavalcante900",
+        "username": "cavalcante900",
+        "profile_url": "https://x.com/cavalcante900"
+      },
+      "text": "O detalhe é completarem a votação de quem não compareceram no nordeste e norte.",
+      "created_at": "2026-10-25T20:45:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/cavalcante900/status/2114458238393729228#m",
+      "metrics": {
+        "like_count": 70,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114458238393729228",
+        "text": "O detalhe é completarem a votação de quem não compareceram no nordeste e norte.",
+        "author_username": "cavalcante900",
+        "author_name": "cavalcante900",
+        "created_at": "2026-10-25T20:45:00+00:00",
+        "permalink": "https://nitter.meowing.monster/cavalcante900/status/2114458238393729228#m",
+        "metrics": {
+          "like_count": 70,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114453017781035385",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114453017781035385",
+      "parent_post_id": null,
+      "thread_root_id": "2114453017781035385",
+      "author": {
+        "platform_id": null,
+        "display_name": "thiagom_bsb",
+        "username": "thiagom_bsb",
+        "profile_url": "https://x.com/thiagom_bsb"
+      },
+      "text": "Mais de 400 km e quase 7 horas de viagem para votar. Valeu cada quilômetro e cada minuto. Cumpri meu dever por mim e pelos meus irmãos brasileiros, de norte a sul. 🇧🇷\n\n#Brasil #Flávio22",
+      "created_at": "2026-10-25T20:24:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/thiagom_bsb/status/2114453017781035385#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114453017781035385",
+        "text": "Mais de 400 km e quase 7 horas de viagem para votar. Valeu cada quilômetro e cada minuto. Cumpri meu dever por mim e pelos meus irmãos brasileiros, de norte a sul. 🇧🇷\n\n#Brasil #Flávio22",
+        "author_username": "thiagom_bsb",
+        "author_name": "thiagom_bsb",
+        "created_at": "2026-10-25T20:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/thiagom_bsb/status/2114453017781035385#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 185,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114447586903851015",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114447586903851015",
+      "parent_post_id": null,
+      "thread_root_id": "2114447586903851015",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+      "created_at": "2026-10-25T20:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447586903851015#m",
+      "metrics": {
+        "like_count": 61,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114447586903851015",
+        "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-25T20:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447586903851015#m",
+        "metrics": {
+          "like_count": 61,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114447481971077309",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114447481971077309",
+      "parent_post_id": null,
+      "thread_root_id": "2114447481971077309",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+      "created_at": "2026-10-25T20:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447481971077309#m",
+      "metrics": {
+        "like_count": 766,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114447481971077309",
+        "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-25T20:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447481971077309#m",
+        "metrics": {
+          "like_count": 766,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114447271287034022",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114447271287034022",
+      "parent_post_id": null,
+      "thread_root_id": "2114447271287034022",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+      "created_at": "2026-10-25T20:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447271287034022#m",
+      "metrics": {
+        "like_count": 60,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114447271287034022",
+        "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-25T20:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447271287034022#m",
+        "metrics": {
+          "like_count": 60,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114447216735895620",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114447216735895620",
+      "parent_post_id": null,
+      "thread_root_id": "2114447216735895620",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+      "created_at": "2026-10-25T20:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447216735895620#m",
+      "metrics": {
+        "like_count": 14,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114447216735895620",
+        "text": "O NORTE E O NORDESTE MERECSM VOTARR! #VOTACAOATEAS19HRS",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-25T20:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/drogueirinha/status/2114447216735895620#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 55,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114544991728984427",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114544991728984427",
+      "parent_post_id": null,
+      "thread_root_id": "2114544991728984427",
+      "author": {
+        "platform_id": null,
+        "display_name": "Ricardo05799019",
+        "username": "Ricardo05799019",
+        "profile_url": "https://x.com/Ricardo05799019"
+      },
+      "text": "Israel nunca perde. Eles controlam os dois lados. Só não controlam o Irã, a Rússia, a China e Coreia do Norte, o resta está tudo dominado.",
+      "created_at": "2026-10-26T02:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.xitter.cc/Ricardo05799019/status/2114544991728984427#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114544991728984427",
+        "text": "Israel nunca perde. Eles controlam os dois lados. Só não controlam o Irã, a Rússia, a China e Coreia do Norte, o resta está tudo dominado.",
+        "author_username": "Ricardo05799019",
+        "author_name": "Ricardo05799019",
+        "created_at": "2026-10-26T02:29:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Ricardo05799019/status/2114544991728984427#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 138,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114544124866994651",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114544124866994651",
+      "parent_post_id": null,
+      "thread_root_id": "2114544124866994651",
+      "author": {
+        "platform_id": null,
+        "display_name": "Joo77778505",
+        "username": "Joo77778505",
+        "profile_url": "https://x.com/Joo77778505"
+      },
+      "text": "Rio Grande do Norte é tão performático",
+      "created_at": "2026-10-26T02:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.xitter.cc/Joo77778505/status/2114544124866994651#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114544124866994651",
+        "text": "Rio Grande do Norte é tão performático",
+        "author_username": "Joo77778505",
+        "author_name": "Joo77778505",
+        "created_at": "2026-10-26T02:26:00+00:00",
+        "permalink": "https://nitter.xitter.cc/Joo77778505/status/2114544124866994651#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515642980372718",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515642980372718",
+      "parent_post_id": null,
+      "thread_root_id": "2114515642980372718",
+      "author": {
+        "platform_id": null,
+        "display_name": "nastenka1962",
+        "username": "nastenka1962",
+        "profile_url": "https://x.com/nastenka1962"
+      },
+      "text": "OBRIGADAAAA AO NORTE E NORDESTE, NINGUÉM PODE COM VOCÊS, GRATIDÃO AOS ESTUDANTES CORAJOSOS E MILITANTES MARAVILHOSOS! \nSEREMOS O EXÉRCITO DE LULA! 🇧🇷\nMELHOR PRESIDENTE DA HISTÓRIA DO BRASIL! \nE TETRA! \nPARABÉNS LULA! 🇧🇷\n#LulaOMaiorDeTodos \n#LulaTetra \n#LulaPreside",
+      "created_at": "2026-10-26T00:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T23:38:43-03:00",
+      "permalink": "https://nitter.xitter.cc/nastenka1962/status/2114515642980372718#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "9c152774-4845-4df0-87e4-2519cd2aec24",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.xitter.cc"
+      },
+      "raw_data": {
+        "id": "2114515642980372718",
+        "text": "OBRIGADAAAA AO NORTE E NORDESTE, NINGUÉM PODE COM VOCÊS, GRATIDÃO AOS ESTUDANTES CORAJOSOS E MILITANTES MARAVILHOSOS! \nSEREMOS O EXÉRCITO DE LULA! 🇧🇷\nMELHOR PRESIDENTE DA HISTÓRIA DO BRASIL! \nE TETRA! \nPARABÉNS LULA! 🇧🇷\n#LulaOMaiorDeTodos \n#LulaTetra \n#LulaPreside",
+        "author_username": "nastenka1962",
+        "author_name": "nastenka1962",
+        "created_at": "2026-10-26T00:33:00+00:00",
+        "permalink": "https://nitter.xitter.cc/nastenka1962/status/2114515642980372718#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 264,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
