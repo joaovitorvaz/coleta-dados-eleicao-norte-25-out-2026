@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_norte",
+    "query": "paraense",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+    "collected_at": "2026-10-25T04:45:18-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114194503108075591",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114194503108075591",
+      "parent_post_id": null,
+      "thread_root_id": "2114194503108075591",
+      "author": {
+        "platform_id": null,
+        "display_name": "jepapao",
+        "username": "jepapao",
+        "profile_url": "https://x.com/jepapao"
+      },
+      "text": "Orgulho de Ser Paraense\n\n#VamosVotarNoLula \n\n131️⃣3️⃣🇧🇷⭐️",
+      "created_at": "2026-10-25T03:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T04:45:18-03:00",
+      "permalink": "https://nitter.meowing.monster/jepapao/status/2114194503108075591#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "paraense",
+        "term_group_id": "gentilicos_norte",
+        "term_label": "Gentílicos — Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114194503108075591",
+        "text": "Orgulho de Ser Paraense\n\n#VamosVotarNoLula \n\n131️⃣3️⃣🇧🇷⭐️",
+        "author_username": "jepapao",
+        "author_name": "jepapao",
+        "created_at": "2026-10-25T03:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jepapao/status/2114194503108075591#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 57,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

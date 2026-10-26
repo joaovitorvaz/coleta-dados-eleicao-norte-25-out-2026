@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+    "collected_at": "2026-10-25T16:31:13-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 23
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114434229203349910",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114434229203349910",
+      "parent_post_id": null,
+      "thread_root_id": "2114434229203349910",
+      "author": {
+        "platform_id": null,
+        "display_name": "TVMetroPiracity",
+        "username": "TVMetroPiracity",
+        "profile_url": "https://x.com/TVMetroPiracity"
+      },
+      "text": "Candidatos votaram na manhã deste domingo (25), fizeram declarações sobre a campanha e reforçaram mensagens direcionadas ao eleitorado.\n\nO presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, votaram na manhã deste domingo (25), no segundo turno das eleições de 2026.\n\nFlávio Bolsonaro votou por volta das 8h20, na Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro. Após votar, afirmou que o país precisa de uma mudança de rumo e citou a segurança pública e as dificuldades financeiras enfrentadas pelos brasileiros.\n\n“Chegou a hora da mudança de verdade”, declarou o candidato, que também pediu aos eleitores que comparecessem às urnas.\n\nLula votou por volta das 9h30, em São Bernardo do Campo, na Grande São Paulo, acompanhado da primeira-dama Janja Lula da Silva e do vice-presidente Geraldo Alckmin (PSB).\n\nApós votar, o presidente agradeceu o apoio recebido durante a campanha e destacou a mobilização de apoiadores nas ruas. Lula também fez críticas ao adversário e defendeu o respeito ao resultado das urnas.\n\nO segundo turno define quem ocupará a Presidência da República pelos próximos quatro anos. A votação ocorre das 8h às 17h, pelo horário de Brasília, e a apuração começa após o encerramento da votação.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Divulgação\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleições2026",
+      "created_at": "2026-10-25T19:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:13-03:00",
+      "permalink": "https://nitter.mie.foundation/TVMetroPiracity/status/2114434229203349910#m",
+      "metrics": {
+        "like_count": 46,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "bolsonaro",
+        "pl",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114434229203349910",
+        "text": "Candidatos votaram na manhã deste domingo (25), fizeram declarações sobre a campanha e reforçaram mensagens direcionadas ao eleitorado.\n\nO presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República, votaram na manhã deste domingo (25), no segundo turno das eleições de 2026.\n\nFlávio Bolsonaro votou por volta das 8h20, na Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro. Após votar, afirmou que o país precisa de uma mudança de rumo e citou a segurança pública e as dificuldades financeiras enfrentadas pelos brasileiros.\n\n“Chegou a hora da mudança de verdade”, declarou o candidato, que também pediu aos eleitores que comparecessem às urnas.\n\nLula votou por volta das 9h30, em São Bernardo do Campo, na Grande São Paulo, acompanhado da primeira-dama Janja Lula da Silva e do vice-presidente Geraldo Alckmin (PSB).\n\nApós votar, o presidente agradeceu o apoio recebido durante a campanha e destacou a mobilização de apoiadores nas ruas. Lula também fez críticas ao adversário e defendeu o respeito ao resultado das urnas.\n\nO segundo turno define quem ocupará a Presidência da República pelos próximos quatro anos. A votação ocorre das 8h às 17h, pelo horário de Brasília, e a apuração começa após o encerramento da votação.\n\n📰 Leia a matéria completa em metropolitanapiracicaba.com.…\n\n📷 Divulgação\n✍🏽 Danilo Telles/Jornalista\nPublicado por: Danilo Telles | Grupo Metropolitana\n\n#tvmetropolitanapiracicaba #tvmetropolitana #piracicaba #MTV #jornalmetropolitano #radiometropolitanapiracicaba #radiometropolitana #jornal #eleições2026",
+        "author_username": "TVMetroPiracity",
+        "author_name": "TVMetroPiracity",
+        "created_at": "2026-10-25T19:09:00+00:00",
+        "permalink": "https://nitter.mie.foundation/TVMetroPiracity/status/2114434229203349910#m",
+        "metrics": {
+          "like_count": 46,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 1625,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114433956460327277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114433956460327277",
+      "parent_post_id": null,
+      "thread_root_id": "2114433956460327277",
+      "author": {
+        "platform_id": null,
+        "display_name": "drogueirinha",
+        "username": "drogueirinha",
+        "profile_url": "https://x.com/drogueirinha"
+      },
+      "text": "Acorda pra vida, central! No Norte e no Nordeste as pessoas estao sendo impedidas de votar. Não tem onibus nas ruas!!!!!! Estas em que mundo? @TSEjusbr",
+      "created_at": "2026-10-25T19:08:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:13-03:00",
+      "permalink": "https://nitter.mie.foundation/drogueirinha/status/2114433956460327277#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114433956460327277",
+        "text": "Acorda pra vida, central! No Norte e no Nordeste as pessoas estao sendo impedidas de votar. Não tem onibus nas ruas!!!!!! Estas em que mundo? @TSEjusbr",
+        "author_username": "drogueirinha",
+        "author_name": "drogueirinha",
+        "created_at": "2026-10-25T19:08:00+00:00",
+        "permalink": "https://nitter.mie.foundation/drogueirinha/status/2114433956460327277#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 151,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

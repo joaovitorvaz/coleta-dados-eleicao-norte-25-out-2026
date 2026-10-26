@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "Norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "5fc2962f-41a3-48ef-9b84-8c568285b708",
+    "collected_at": "2026-10-25T08:51:43-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 6
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114319277729722480",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114319277729722480",
+      "parent_post_id": null,
+      "thread_root_id": "2114319277729722480",
+      "author": {
+        "platform_id": null,
+        "display_name": "ArturEMDutra",
+        "username": "ArturEMDutra",
+        "profile_url": "https://x.com/ArturEMDutra"
+      },
+      "text": "▶️🚨AGORA: Flávio Bolsonaro chega para votar em escola no bairro de Vila Isabel, Zona Norte do Rio de Janeiro.",
+      "created_at": "2026-10-25T11:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T08:51:43-03:00",
+      "permalink": "https://nitter.meowing.monster/ArturEMDutra/status/2114319277729722480#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "5fc2962f-41a3-48ef-9b84-8c568285b708",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114319277729722480",
+        "text": "▶️🚨AGORA: Flávio Bolsonaro chega para votar em escola no bairro de Vila Isabel, Zona Norte do Rio de Janeiro.",
+        "author_username": "ArturEMDutra",
+        "author_name": "ArturEMDutra",
+        "created_at": "2026-10-25T11:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ArturEMDutra/status/2114319277729722480#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 109,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114295858707529898",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114295858707529898",
+      "parent_post_id": null,
+      "thread_root_id": "2114295858707529898",
+      "author": {
+        "platform_id": null,
+        "display_name": "ester_vulcao",
+        "username": "ester_vulcao",
+        "profile_url": "https://x.com/ester_vulcao"
+      },
+      "text": "Aqui é Ribeirinhos, aqui é  Cametá,  aqui é Pará,  aqui é Norte. 13 neles.",
+      "created_at": "2026-10-25T09:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T08:51:43-03:00",
+      "permalink": "https://nitter.meowing.monster/ester_vulcao/status/2114295858707529898#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "5fc2962f-41a3-48ef-9b84-8c568285b708",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114295858707529898",
+        "text": "Aqui é Ribeirinhos, aqui é  Cametá,  aqui é Pará,  aqui é Norte. 13 neles.",
+        "author_username": "ester_vulcao",
+        "author_name": "ester_vulcao",
+        "created_at": "2026-10-25T09:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ester_vulcao/status/2114295858707529898#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114278123772461417",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114278123772461417",
+      "parent_post_id": null,
+      "thread_root_id": "2114278123772461417",
+      "author": {
+        "platform_id": null,
+        "display_name": "Marciopaulada68",
+        "username": "Marciopaulada68",
+        "profile_url": "https://x.com/Marciopaulada68"
+      },
+      "text": "Ele tem mais é que se fuder. Que vá para o inferno e chegando, será obrigado a descarregar caminhões de enxofre com pá de cabo quente para arrancar o couro da mão, para pagar pelo fome e o sofrimento do povo norte coreano. Ele comia o que há de melhor no planeta, se fu!",
+      "created_at": "2026-10-25T08:49:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T08:51:43-03:00",
+      "permalink": "https://nitter.meowing.monster/Marciopaulada68/status/2114278123772461417#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "5fc2962f-41a3-48ef-9b84-8c568285b708",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114278123772461417",
+        "text": "Ele tem mais é que se fuder. Que vá para o inferno e chegando, será obrigado a descarregar caminhões de enxofre com pá de cabo quente para arrancar o couro da mão, para pagar pelo fome e o sofrimento do povo norte coreano. Ele comia o que há de melhor no planeta, se fu!",
+        "author_username": "Marciopaulada68",
+        "author_name": "Marciopaulada68",
+        "created_at": "2026-10-25T08:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Marciopaulada68/status/2114278123772461417#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 270,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

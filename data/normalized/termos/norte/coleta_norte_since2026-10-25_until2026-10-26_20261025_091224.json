@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "5fc2962f-41a3-48ef-9b84-8c568285b708",
+    "collected_at": "2026-10-25T09:12:24-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 9
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114322219358670891",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114322219358670891",
+      "parent_post_id": null,
+      "thread_root_id": "2114322219358670891",
+      "author": {
+        "platform_id": null,
+        "display_name": "ArturEMDutra",
+        "username": "ArturEMDutra",
+        "profile_url": "https://x.com/ArturEMDutra"
+      },
+      "text": "🇧🇷❗️ AGORA — Flávio Bolsonaro vota na seção eleitoral da Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro",
+      "created_at": "2026-10-25T11:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T09:12:24-03:00",
+      "permalink": "https://nitter.meowing.monster/ArturEMDutra/status/2114322219358670891#m",
+      "metrics": {
+        "like_count": 30,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Norte",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "5fc2962f-41a3-48ef-9b84-8c568285b708",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114322219358670891",
+        "text": "🇧🇷❗️ AGORA — Flávio Bolsonaro vota na seção eleitoral da Escola Municipal Barão Homem de Mello, em Vila Isabel, na Zona Norte do Rio de Janeiro",
+        "author_username": "ArturEMDutra",
+        "author_name": "ArturEMDutra",
+        "created_at": "2026-10-25T11:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ArturEMDutra/status/2114322219358670891#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 143,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

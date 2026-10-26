@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "norte voto",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+    "collected_at": "2026-10-25T19:27:02-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114464800948514853",
+            "text": "Ok..\nMas imagina duas horas la pro norte e nordeste, mesarios com as urnas a vontade ..\nQuem não foi votar,vao computar voto\n.vao votar por eles",
+            "author_username": "TarcesP",
+            "author_name": "TarcesP",
+            "created_at": "2026-10-25T21:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/TarcesP/status/2114464800948514853#m",
+            "metrics": {
+              "like_count": 42,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114424797061161237",
+            "text": "NORTE NORDESTE E SUDESTE PRECISAM TER HORARIO DE VOTO PRORROGADO ATÉ  AS 19HRS @TSEjusbr não estamos vendo os mesmos problemas em regiões em que o Flávio Bolsonaro foi eleito com facilidade no primeiro turno, vocês serão coniventes ao Golpe?",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T18:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/drogueirinha/status/2114424797061161237#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114071906211057885",
+            "text": "NOVE DEDOS SIM \nE COMPLETOU UMA MÃO DE UM LADRÃO \nLula é ladrão e daí?\n\nNós os BOLSONARISTAS, iremos vencer essa eleição e dar um capote de voto em cima de Lula que irá entrar para a história de nossa nação\nA derrota do do PT ou do Lulapetismo, já está comprovada em todas as pesquisas do segundo turno, e na reação de ruas do #bloquinho22\nE na reação da população brasileira organicamente falando \nPorque os BOLSONARISTAS são convictos, e não fazem barulhos ou vão para as ruas em troca de dinheiro ou pão com mortadela\nA VIRADA DO LULA NO SEGUNDO TURNO FICOU APENAS EM SONHO \nA petezada fizeram muito barulho nesse segundo turno, mas não teve êxito nenhum !\nNem  matematicamente falando, ou mesmo por todas as pesquisas feitas no segundo turno , #FLAVIOPRESIDENTE\nA tal de virada não chegou!?\nFlávio BOLSONARO dará um capote de voto muito grande no Lula; O  qual irá entrar pra história da nossa nação \nLula será derrotado Ele e toda a petezada \n#belohorizonte #Norte #Fortaleza #PraçaLiberdade #minasgerais #Goiania\n #Ceara #Flavio22 #DebateNaGlobo\n#Daltan  #LulaVaiVirar O Macallas 50 mil a dose",
+            "author_username": "DivinoAlvesdeP1",
+            "author_name": "DivinoAlvesdeP1",
+            "created_at": "2026-10-24T19:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/DivinoAlvesdeP1/status/2114071906211057885#m",
+            "metrics": {
+              "like_count": 143,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114464800948514853",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114464800948514853",
+      "collected_at": "2026-10-25T19:27:02-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte voto",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114464800948514853",
+        "text": "Ok..\nMas imagina duas horas la pro norte e nordeste, mesarios com as urnas a vontade ..\nQuem não foi votar,vao computar voto\n.vao votar por eles",
+        "author_username": "TarcesP",
+        "author_name": "TarcesP",
+        "created_at": "2026-10-25T21:11:00+00:00",
+        "permalink": "https://nitter.netbub.com/TarcesP/status/2114464800948514853#m",
+        "metrics": {
+          "like_count": 42,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": []
+}

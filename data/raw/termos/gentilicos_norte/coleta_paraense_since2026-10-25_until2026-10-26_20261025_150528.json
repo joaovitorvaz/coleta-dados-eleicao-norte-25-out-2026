@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_norte",
+    "query": "paraense",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+    "collected_at": "2026-10-25T15:05:28-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114370345884934373",
+            "text": "LULA TRETA-PRESIDENTE!",
+            "author_username": "inobstante",
+            "author_name": "inobstante",
+            "created_at": "2026-10-25T14:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/inobstante/status/2114370345884934373#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114194503108075591",
+            "text": "Orgulho de Ser Paraense\n\n#VamosVotarNoLula \n\n131️⃣3️⃣🇧🇷⭐️",
+            "author_username": "jepapao",
+            "author_name": "jepapao",
+            "created_at": "2026-10-25T03:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jepapao/status/2114194503108075591#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114179400585384359",
+            "text": "Parabéns Falso 9.  Como bom paraense.  O que você achou do comentário do candidato da direita radical, sobre Belém do Pará???",
+            "author_username": "AnastacioJrMel1",
+            "author_name": "AnastacioJrMel1",
+            "created_at": "2026-10-25T02:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AnastacioJrMel1/status/2114179400585384359#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114117059059605843",
+            "text": "Kkkkkk essa disnatia a qual o senhor pertence, está a tempo demais no poder e o povo Paraense só foi lembrado na COP.30 e olhe lá.",
+            "author_username": "Magofunker",
+            "author_name": "Magofunker",
+            "created_at": "2026-10-24T22:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Magofunker/status/2114117059059605843#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114115381577314442",
+            "text": "Quando eu lembro dessa  noite Paraense, já quero montar uma noite Pernambucana tb❤️ e eu consigo fácil 👀🤍",
+            "author_username": "NikolaiGouveia",
+            "author_name": "NikolaiGouveia",
+            "created_at": "2026-10-24T22:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/NikolaiGouveia/status/2114115381577314442#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114113222920016190",
+            "text": "Alguém precisa informar a @DiraPaes que segundo o Instituto Trata Brasil, aproximadamente 25% apenas da cidade tem atendimento adequado de esgoto, além do que a capital paraense no levantamento que avalia os 100 maiores municípios do país ocupa a 94ª posição nacional, figurando entre as 10 cidades com os piores indicadores do Brasil (14º lugar no grupo dos 20 piores municípios). Como explicar isso? A culpa é do Bolsonaro também? Uma cidade com 1.396.157 de habitantes e somente 25% de atendimento adequado de esgoto! Menos ideologia, mas ação Dira!",
+            "author_username": "pthiagooliveira",
+            "author_name": "pthiagooliveira",
+            "created_at": "2026-10-24T21:54:00+00:00",
+            "permalink": "https://nitter.mie.foundation/pthiagooliveira/status/2114113222920016190#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114086800704835972",
+            "text": "Moça ninguém falou mal da cultura, da beleza, da culinária paraense (que aliás quero conhecer um dia). O problema é o saneamento básico. Fiz o que lula mandou fazer, perguntei ao Gugo.👇",
+            "author_username": "1Pbonate",
+            "author_name": "1Pbonate",
+            "created_at": "2026-10-24T20:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/1Pbonate/status/2114086800704835972#m",
+            "metrics": {
+              "like_count": 327,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114041693984969054",
+            "text": "Então vamos lá deputado, primeiro não distorça o que o cara falou. Mas o importante aqui é... o Instituto Trata Brasil diz que apesar das obras para a COP 30 (engraçado que só faz obra quando o gringo vem pra cá), a capital paraense no levantamento que avalia os 100 maiores municípios do país ocupa a 94ª posição nacional, figurando entre as 10 cidades com os piores indicadores do Brasil (14º lugar no grupo dos 20 piores municípios). Ou seja, apenas cerca de 25% da população conta com atendimento adequado de esgoto! E o senhor está falando ideologicamente, quando diz que o cara falou mal da cidade, e descredenciou o ambiente do município, quando na realidade apenas disse a verdade sobre a situação, e que também irá resolver... O que parece é que vocês gostam que somente 25% da população tenha esgoto tratado, ou será que está questionando os dados levantados pelos organismos competentes? 🤷🏻‍♂️",
+            "author_username": "pthiagooliveira",
+            "author_name": "pthiagooliveira",
+            "created_at": "2026-10-24T17:09:00+00:00",
+            "permalink": "https://nitter.mie.foundation/pthiagooliveira/status/2114041693984969054#m",
+            "metrics": {
+              "like_count": 68,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114370345884934373",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114370345884934373",
+      "collected_at": "2026-10-25T15:05:28-03:00",
+      "matched_terms": [
+        "Gentílicos — Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "paraense",
+        "term_group_id": "gentilicos_norte",
+        "term_label": "Gentílicos — Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114370345884934373",
+        "text": "LULA TRETA-PRESIDENTE!",
+        "author_username": "inobstante",
+        "author_name": "inobstante",
+        "created_at": "2026-10-25T14:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/inobstante/status/2114370345884934373#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

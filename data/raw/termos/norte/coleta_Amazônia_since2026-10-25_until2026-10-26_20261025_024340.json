@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "Amazônia",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "288b8b34-6ac0-428c-b786-0b3b673bf21f",
+    "collected_at": "2026-10-25T02:43:40-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114196675216470179",
+            "text": "Se isso aí fosse verdade o governo não estaria dando gás de graça, aumento do bolsa família e antecipação de pagamentos a véspera de eleição, promessa de perdão de dívidas de impostos e de dinheiro para investir sem precisar pagar de volta. A, e a amazônia está pegando fogo como nunca antes na história desse país.",
+            "author_username": "alexbat27",
+            "author_name": "alexbat27",
+            "created_at": "2026-10-25T03:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/alexbat27/status/2114196675216470179#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114174455798710557",
+            "text": "VÁ PARA O INFERNO VAGABUNDA! A GRANA DA AMAZÔNIA VAI ACABAR!",
+            "author_username": "AJUDABETINHO",
+            "author_name": "AJUDABETINHO",
+            "created_at": "2026-10-25T01:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AJUDABETINHO/status/2114174455798710557#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114142442391847416",
+            "text": "É muita narrativas será que eles pensam que não estamos vendo a destruição da Amazônia",
+            "author_username": "EdisonDeodosSa2",
+            "author_name": "EdisonDeodosSa2",
+            "created_at": "2026-10-24T23:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EdisonDeodosSa2/status/2114142442391847416#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114196675216470179",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114196675216470179",
+      "collected_at": "2026-10-25T02:43:40-03:00",
+      "matched_terms": [
+        "Norte",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazônia",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "288b8b34-6ac0-428c-b786-0b3b673bf21f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114196675216470179",
+        "text": "Se isso aí fosse verdade o governo não estaria dando gás de graça, aumento do bolsa família e antecipação de pagamentos a véspera de eleição, promessa de perdão de dívidas de impostos e de dinheiro para investir sem precisar pagar de volta. A, e a amazônia está pegando fogo como nunca antes na história desse país.",
+        "author_username": "alexbat27",
+        "author_name": "alexbat27",
+        "created_at": "2026-10-25T03:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/alexbat27/status/2114196675216470179#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

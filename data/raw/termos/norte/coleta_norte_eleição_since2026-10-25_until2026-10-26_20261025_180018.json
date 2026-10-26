@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "norte eleição",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+    "collected_at": "2026-10-25T18:00:18-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114455421549515182",
+            "text": "A campanha de Flávio também pediu para prorrogar a eleição, vai ser tenso, acho que Flávio vai ser desfavorecida com essa decisão, pqp. Sou de salvador e aqui a roubalheira é escancarada, o que deve acontecer em todo o nordeste e parte do norte",
+            "author_username": "carlossouz59412",
+            "author_name": "carlossouz59412",
+            "created_at": "2026-10-25T20:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/carlossouz59412/status/2114455421549515182#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114439786220142682",
+            "text": "O prefeito de São Paulo está boicotando a eleição tirando ônibus de circulação da Zona leste, sul e norte\n\nVocê que tem carro e pode ajudar \nVá pras ruas levar as pessoas dos ônibus pro lugar de votação \n\nCarona solidária urgente \n\n#ProrrogacaoJa #ProrrogaTSE",
+            "author_username": "Lihmiguel",
+            "author_name": "Lihmiguel",
+            "created_at": "2026-10-25T19:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Lihmiguel/status/2114439786220142682#m",
+            "metrics": {
+              "like_count": 75,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114455421549515182",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114455421549515182",
+      "collected_at": "2026-10-25T18:00:18-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "Norte",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte eleição",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114455421549515182",
+        "text": "A campanha de Flávio também pediu para prorrogar a eleição, vai ser tenso, acho que Flávio vai ser desfavorecida com essa decisão, pqp. Sou de salvador e aqui a roubalheira é escancarada, o que deve acontecer em todo o nordeste e parte do norte",
+        "author_username": "carlossouz59412",
+        "author_name": "carlossouz59412",
+        "created_at": "2026-10-25T20:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/carlossouz59412/status/2114455421549515182#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114439786220142682",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114439786220142682",
+      "collected_at": "2026-10-25T18:00:18-03:00",
+      "matched_terms": [
+        "Norte",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte eleição",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114439786220142682",
+        "text": "O prefeito de São Paulo está boicotando a eleição tirando ônibus de circulação da Zona leste, sul e norte\n\nVocê que tem carro e pode ajudar \nVá pras ruas levar as pessoas dos ônibus pro lugar de votação \n\nCarona solidária urgente \n\n#ProrrogacaoJa #ProrrogaTSE",
+        "author_username": "Lihmiguel",
+        "author_name": "Lihmiguel",
+        "created_at": "2026-10-25T19:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Lihmiguel/status/2114439786220142682#m",
+        "metrics": {
+          "like_count": 75,
+          "reply_count": 1,
+          "retweet_count": 1,
+          "quote_count": 2
+        }
+      }
+    }
+  ],
+  "comments": []
+}

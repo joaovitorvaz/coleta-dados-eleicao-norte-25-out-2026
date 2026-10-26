@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "Norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+    "collected_at": "2026-10-25T05:12:00-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 2
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114242176863371566",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114242176863371566",
+      "parent_post_id": null,
+      "thread_root_id": "2114242176863371566",
+      "author": {
+        "platform_id": null,
+        "display_name": "FogoPark24h",
+        "username": "FogoPark24h",
+        "profile_url": "https://x.com/FogoPark24h"
+      },
+      "text": "⚡ O Brasil pode e deve fazer a proeza de preservar a inigualável BIODIVERSIDADE da Amazônia e simultaneamente permitir atividade econômica para gerar riqueza! Os piores indicadore socioeconômicos do BR estão no Norte! Infraestrutura em pontos estratégicos não vai criar deserto!",
+      "created_at": "2026-10-25T06:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T05:12:00-03:00",
+      "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114242176863371566#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114242176863371566",
+        "text": "⚡ O Brasil pode e deve fazer a proeza de preservar a inigualável BIODIVERSIDADE da Amazônia e simultaneamente permitir atividade econômica para gerar riqueza! Os piores indicadore socioeconômicos do BR estão no Norte! Infraestrutura em pontos estratégicos não vai criar deserto!",
+        "author_username": "FogoPark24h",
+        "author_name": "FogoPark24h",
+        "created_at": "2026-10-25T06:26:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114242176863371566#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 278,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114239709379518955",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114239709379518955",
+      "parent_post_id": null,
+      "thread_root_id": "2114239709379518955",
+      "author": {
+        "platform_id": null,
+        "display_name": "Luxana_Malkov",
+        "username": "Luxana_Malkov",
+        "profile_url": "https://x.com/Luxana_Malkov"
+      },
+      "text": "Quando vc descobre que a existência do colegio eleitoral se da pela escravidão nos eua, tudo isso pra equilibrar o norte e o sul com o compromisso dos 3 quintos 🤩",
+      "created_at": "2026-10-25T06:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T05:12:00-03:00",
+      "permalink": "https://nitter.meowing.monster/Luxana_Malkov/status/2114239709379518955#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114239709379518955",
+        "text": "Quando vc descobre que a existência do colegio eleitoral se da pela escravidão nos eua, tudo isso pra equilibrar o norte e o sul com o compromisso dos 3 quintos 🤩",
+        "author_username": "Luxana_Malkov",
+        "author_name": "Luxana_Malkov",
+        "created_at": "2026-10-25T06:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Luxana_Malkov/status/2114239709379518955#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 162,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114239281736659347",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114239281736659347",
+      "parent_post_id": null,
+      "thread_root_id": "2114239281736659347",
+      "author": {
+        "platform_id": null,
+        "display_name": "PaixaoAoFutebol",
+        "username": "PaixaoAoFutebol",
+        "profile_url": "https://x.com/PaixaoAoFutebol"
+      },
+      "text": "Hoje começa a Copa do Mundo de Clubes Feminina 2027 ⚽ o Naegohyang da Coreia do Norte enfrente o Auckland United da Nova Zelândia pela primeira fase ! Outras equipes aguardando adversário são o América do Maxico e o Barcelona da Espanha !",
+      "created_at": "2026-10-25T06:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T05:12:00-03:00",
+      "permalink": "https://nitter.meowing.monster/PaixaoAoFutebol/status/2114239281736659347#m",
+      "metrics": {
+        "like_count": 52,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114239281736659347",
+        "text": "Hoje começa a Copa do Mundo de Clubes Feminina 2027 ⚽ o Naegohyang da Coreia do Norte enfrente o Auckland United da Nova Zelândia pela primeira fase ! Outras equipes aguardando adversário são o América do Maxico e o Barcelona da Espanha !",
+        "author_username": "PaixaoAoFutebol",
+        "author_name": "PaixaoAoFutebol",
+        "created_at": "2026-10-25T06:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PaixaoAoFutebol/status/2114239281736659347#m",
+        "metrics": {
+          "like_count": 52,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 238,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114236497670889669",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114236497670889669",
+      "parent_post_id": null,
+      "thread_root_id": "2114236497670889669",
+      "author": {
+        "platform_id": null,
+        "display_name": "FogoPark24h",
+        "username": "FogoPark24h",
+        "profile_url": "https://x.com/FogoPark24h"
+      },
+      "text": "⚡ Saneamento também é ambientalismo. Mas a ideia da floresta intocada é ingênua e perigosa. As ONGs a querem intocada pelo Brasil para que sejam exploradas por potências estrangeiras. Jamais transformar o Norte numa Grande SP. Apenas otimizar o que já existe construído.",
+      "created_at": "2026-10-25T06:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T05:12:00-03:00",
+      "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114236497670889669#m",
+      "metrics": {
+        "like_count": 31,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114236497670889669",
+        "text": "⚡ Saneamento também é ambientalismo. Mas a ideia da floresta intocada é ingênua e perigosa. As ONGs a querem intocada pelo Brasil para que sejam exploradas por potências estrangeiras. Jamais transformar o Norte numa Grande SP. Apenas otimizar o que já existe construído.",
+        "author_username": "FogoPark24h",
+        "author_name": "FogoPark24h",
+        "created_at": "2026-10-25T06:03:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FogoPark24h/status/2114236497670889669#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 270,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

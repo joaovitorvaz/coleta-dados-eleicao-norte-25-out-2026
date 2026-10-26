@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "288b8b34-6ac0-428c-b786-0b3b673bf21f",
+    "collected_at": "2026-10-25T02:03:29-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114216308103434432",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114216308103434432",
+      "parent_post_id": null,
+      "thread_root_id": "2114216308103434432",
+      "author": {
+        "platform_id": null,
+        "display_name": "mahtukirenedra",
+        "username": "mahtukirenedra",
+        "profile_url": "https://x.com/mahtukirenedra"
+      },
+      "text": "Região Norte, ganhou Flávio",
+      "created_at": "2026-10-25T04:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T02:03:29-03:00",
+      "permalink": "https://nitter.netbub.com/mahtukirenedra/status/2114216308103434432#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "288b8b34-6ac0-428c-b786-0b3b673bf21f",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114216308103434432",
+        "text": "Região Norte, ganhou Flávio",
+        "author_username": "mahtukirenedra",
+        "author_name": "mahtukirenedra",
+        "created_at": "2026-10-25T04:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/mahtukirenedra/status/2114216308103434432#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 27,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "campaign_norte_checkpoint",
+  "campaign_start": "2026-10-25",
+  "last_successful_until": null,
+  "completed_windows": [],
+  "last_run_at": "2026-10-25T14:06:18-03:00",
+  "last_post_id": null,
+  "extra": {
+    "campaign_id": "eleicao_norte_domingo_20261025",
+    "last_cycle": {
+      "written": 25,
+      "duplicates": 59,
+      "errors": 0,
+      "json_files": 16,
+      "raw_json_files": 16,
+      "event": {
+        "event_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "event_type": "campaign_eleicao_norte_domingo_20261025",
+        "started_at": "2026-10-25T14:06:18-03:00",
+        "finished_at": "2026-10-25T21:11:03-03:00",
+        "status": "success",
+        "since": "2026-10-25",
+        "until": "2026-10-26",
+        "records_written": 25,
+        "records_skipped_duplicate": 59,
+        "json_files_written": 16,
+        "errors": [],
+        "twitee_trends": []
+      },
+      "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+      "twitee_trends": [],
+      "git_sync": {
+        "pushed": false,
+        "commit": null,
+        "files": 0
+      }
+    }
+  },
+  "saved_at": "2026-10-25T21:11:03"
+}

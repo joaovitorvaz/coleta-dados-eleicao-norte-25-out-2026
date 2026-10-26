@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "voto norte",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+    "collected_at": "2026-10-25T20:30:09-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 2
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114464800948514853",
+            "text": "Ok..\nMas imagina duas horas la pro norte e nordeste, mesarios com as urnas a vontade ..\nQuem não foi votar,vao computar voto\n.vao votar por eles",
+            "author_username": "TarcesP",
+            "author_name": "TarcesP",
+            "created_at": "2026-10-25T21:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/TarcesP/status/2114464800948514853#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114424797061161237",
+            "text": "NORTE NORDESTE E SUDESTE PRECISAM TER HORARIO DE VOTO PRORROGADO ATÉ  AS 19HRS @TSEjusbr não estamos vendo os mesmos problemas em regiões em que o Flávio Bolsonaro foi eleito com facilidade no primeiro turno, vocês serão coniventes ao Golpe?",
+            "author_username": "drogueirinha",
+            "author_name": "drogueirinha",
+            "created_at": "2026-10-25T18:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/drogueirinha/status/2114424797061161237#m",
+            "metrics": {
+              "like_count": 64,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114425776301031694",
+            "text": "🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+            "author_username": "oemotiivo",
+            "author_name": "oemotiivo",
+            "created_at": "2026-10-25T18:36:00+00:00",
+            "permalink": "https://nitter.netbub.com/oemotiivo/status/2114425776301031694#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114424797061161237",
+            "parent_comment_id": "2114424797061161237",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 13,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114425776301031694",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114425776301031694",
+      "post_id": "2114424797061161237",
+      "collected_at": "2026-10-25T20:30:09-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "voto norte",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114425776301031694",
+        "text": "🚨 @TSEjusbr, pedimos a extensão do horário de votação diante dos atrasos no transporte público em diversas cidades do Brasil. Nenhum eleitor pode ser prejudicado e impedido de exercer seu direito ao voto por dificuldades de deslocamento. Votar é um direito!",
+        "author_username": "oemotiivo",
+        "author_name": "oemotiivo",
+        "created_at": "2026-10-25T18:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/oemotiivo/status/2114425776301031694#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114424797061161237",
+        "parent_comment_id": "2114424797061161237",
+        "depth": 1
+      }
+    }
+  ]
+}

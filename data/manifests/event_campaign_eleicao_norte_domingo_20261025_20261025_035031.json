@@ -1,0 +1,14 @@
+{
+  "event_id": "288b8b34-6ac0-428c-b786-0b3b673bf21f",
+  "event_type": "campaign_eleicao_norte_domingo_20261025",
+  "started_at": "2026-10-25T00:40:05-03:00",
+  "finished_at": "2026-10-25T03:50:31-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-26",
+  "records_written": 4,
+  "records_skipped_duplicate": 4,
+  "json_files_written": 19,
+  "errors": [],
+  "twitee_trends": []
+}

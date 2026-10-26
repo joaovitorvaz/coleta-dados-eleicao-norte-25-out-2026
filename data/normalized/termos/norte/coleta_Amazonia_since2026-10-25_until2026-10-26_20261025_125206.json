@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "Amazonia",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "2adbac5d-4c66-42c1-b0c8-69ecf998208c",
+    "collected_at": "2026-10-25T12:52:06-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 5
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114382006121337177",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114382006121337177",
+      "parent_post_id": null,
+      "thread_root_id": "2114382006121337177",
+      "author": {
+        "platform_id": null,
+        "display_name": "RicardodeAlbuqu",
+        "username": "RicardodeAlbuqu",
+        "profile_url": "https://x.com/RicardodeAlbuqu"
+      },
+      "text": "Previsão: dia 1 de janeiro, a Amazônia, esquecida por 4 anos, de repente, começará a pegar fogo, as girafas, e os rinocerontes vão ser exterminados e os indiozinhos vão começar a morrer.",
+      "created_at": "2026-10-25T15:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:52:06-03:00",
+      "permalink": "https://nitter.mie.foundation/RicardodeAlbuqu/status/2114382006121337177#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazonia",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "2adbac5d-4c66-42c1-b0c8-69ecf998208c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114382006121337177",
+        "text": "Previsão: dia 1 de janeiro, a Amazônia, esquecida por 4 anos, de repente, começará a pegar fogo, as girafas, e os rinocerontes vão ser exterminados e os indiozinhos vão começar a morrer.",
+        "author_username": "RicardodeAlbuqu",
+        "author_name": "RicardodeAlbuqu",
+        "created_at": "2026-10-25T15:42:00+00:00",
+        "permalink": "https://nitter.mie.foundation/RicardodeAlbuqu/status/2114382006121337177#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 186,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

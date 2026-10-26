@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "term_group_id": "norte",
+    "query": "Amazônia",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+    "collected_at": "2026-10-25T06:54:48-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 3
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114247661733720538",
+            "text": "⚡ Marina Silva vai ter que aprender a mandar as ONGs e o Leonardo DiCaprio pra casa do caralho e otimizar as áreas urbanas que já existem na Amazônia, sabe como? Saneamento e arborização massiva nas ruas de cidades como Manaus! Caso contrário, sinto muito!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:48:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FogoPark24h/status/2114247661733720538#m",
+            "metrics": {
+              "like_count": 22,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114246892745814034",
+            "text": "⚡ No começo dessa thread eu disse que não é necessário abrir novas rodovias na Amazônia, apenas otimizar as que já existem. Ok. Mas a exceção vai para o Amapá, o único estado sem ligação com o resto do Brasil. \nAposto que os biólogos aprovam!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:45:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FogoPark24h/status/2114246892745814034#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114242176863371566",
+            "text": "⚡ O Brasil pode e deve fazer a proeza de preservar a inigualável BIODIVERSIDADE da Amazônia e simultaneamente permitir atividade econômica para gerar riqueza! Os piores indicadore socioeconômicos do BR estão no Norte! Infraestrutura em pontos estratégicos não vai criar deserto!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FogoPark24h/status/2114242176863371566#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114235751688732852",
+            "text": "⚡ Amazônia: chega de expandir a fronteira do Agro. O BR já é celeiro do mundo e ao mesmo é o país que mais preserva a natureza. Que o Agro evolua para Agroindústria. Chega de abrir novas rodovias. Apenas asfaltem as que já existem. Criem ferrovias e hidrovias!",
+            "author_username": "FogoPark24h",
+            "author_name": "FogoPark24h",
+            "created_at": "2026-10-25T06:00:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FogoPark24h/status/2114235751688732852#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114196675216470179",
+            "text": "Se isso aí fosse verdade o governo não estaria dando gás de graça, aumento do bolsa família e antecipação de pagamentos a véspera de eleição, promessa de perdão de dívidas de impostos e de dinheiro para investir sem precisar pagar de volta. A, e a amazônia está pegando fogo como nunca antes na história desse país.",
+            "author_username": "alexbat27",
+            "author_name": "alexbat27",
+            "created_at": "2026-10-25T03:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/alexbat27/status/2114196675216470179#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114174455798710557",
+            "text": "VÁ PARA O INFERNO VAGABUNDA! A GRANA DA AMAZÔNIA VAI ACABAR!",
+            "author_username": "AJUDABETINHO",
+            "author_name": "AJUDABETINHO",
+            "created_at": "2026-10-25T01:57:00+00:00",
+            "permalink": "https://nitter.mie.foundation/AJUDABETINHO/status/2114174455798710557#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114142442391847416",
+            "text": "É muita narrativas será que eles pensam que não estamos vendo a destruição da Amazônia",
+            "author_username": "EdisonDeodosSa2",
+            "author_name": "EdisonDeodosSa2",
+            "created_at": "2026-10-24T23:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/EdisonDeodosSa2/status/2114142442391847416#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114104938989338702",
+            "text": "Belém do Pará #ComLulaNaRua",
+            "author_username": "Amabedgai",
+            "author_name": "Amabedgai",
+            "created_at": "2026-10-24T21:21:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Amabedgai/status/2114104938989338702#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114067437951795482",
+            "text": "Mostra a parte final, la perto do mormaço, a área que circunda o portal da Amazônia...",
+            "author_username": "MauriceDj2",
+            "author_name": "MauriceDj2",
+            "created_at": "2026-10-24T18:52:00+00:00",
+            "permalink": "https://nitter.mie.foundation/MauriceDj2/status/2114067437951795482#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114055051173871707",
+            "text": "Posso estar equivocado, mas os meus amigos jornalistas podem acordar amanhã por volta das 19h....\n\nÓbvio que de maneira imparcial, sem militância porque são defensores da Amazônia e da democracia",
+            "author_username": "JamesFreitas",
+            "author_name": "JamesFreitas",
+            "created_at": "2026-10-24T18:02:00+00:00",
+            "permalink": "https://nitter.mie.foundation/JamesFreitas/status/2114055051173871707#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114030758532685854",
+            "text": "Mas veja o lado bom: se o bozo filho vencer as questões ambientais voltam a ordem do dia, imprensa tradicional vai cobrir mais, artistas voltarão a se preocupar com a Amazônia, as Ongs voltarão a atuar mais...",
+            "author_username": "1Pbonate",
+            "author_name": "1Pbonate",
+            "created_at": "2026-10-24T16:26:00+00:00",
+            "permalink": "https://nitter.mie.foundation/1Pbonate/status/2114030758532685854#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114030182000419169",
+            "text": "@GretaThunberg você é hipócrita!!! Vamos aposentar o Larápio de Garanhuns, e a Amazônia será recuperada das facções criminosas e das ONGS corruptas.",
+            "author_username": "FMBC2915",
+            "author_name": "FMBC2915",
+            "created_at": "2026-10-24T16:24:00+00:00",
+            "permalink": "https://nitter.mie.foundation/FMBC2915/status/2114030182000419169#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114028541100560705",
+            "text": "Após tentar enganar o povo do Nordeste, Nikolas Ferreira tenta enganar o povo da Amazônia e é DESMENTIDO!",
+            "author_username": "ricardomedeiros",
+            "author_name": "ricardomedeiros",
+            "created_at": "2026-10-24T16:17:00+00:00",
+            "permalink": "https://nitter.mie.foundation/ricardomedeiros/status/2114028541100560705#m",
+            "metrics": {
+              "like_count": 45,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_norte_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114247661733720538",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114247661733720538",
+      "collected_at": "2026-10-25T06:54:48-03:00",
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazônia",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114247661733720538",
+        "text": "⚡ Marina Silva vai ter que aprender a mandar as ONGs e o Leonardo DiCaprio pra casa do caralho e otimizar as áreas urbanas que já existem na Amazônia, sabe como? Saneamento e arborização massiva nas ruas de cidades como Manaus! Caso contrário, sinto muito!",
+        "author_username": "FogoPark24h",
+        "author_name": "FogoPark24h",
+        "created_at": "2026-10-25T06:48:00+00:00",
+        "permalink": "https://nitter.mie.foundation/FogoPark24h/status/2114247661733720538#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114246892745814034",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114246892745814034",
+      "collected_at": "2026-10-25T06:54:48-03:00",
+      "matched_terms": [
+        "Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Amazônia",
+        "term_group_id": "norte",
+        "term_label": "Norte",
+        "run_id": "44d2b5f5-fda4-4695-8d6f-4c7d702245a9",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114246892745814034",
+        "text": "⚡ No começo dessa thread eu disse que não é necessário abrir novas rodovias na Amazônia, apenas otimizar as que já existem. Ok. Mas a exceção vai para o Amapá, o único estado sem ligação com o resto do Brasil. \nAposto que os biólogos aprovam!",
+        "author_username": "FogoPark24h",
+        "author_name": "FogoPark24h",
+        "created_at": "2026-10-25T06:45:00+00:00",
+        "permalink": "https://nitter.mie.foundation/FogoPark24h/status/2114246892745814034#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

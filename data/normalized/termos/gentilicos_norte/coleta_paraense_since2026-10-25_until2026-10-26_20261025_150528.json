@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_norte",
+    "query": "paraense",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+    "collected_at": "2026-10-25T15:05:28-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114370345884934373",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114370345884934373",
+      "parent_post_id": null,
+      "thread_root_id": "2114370345884934373",
+      "author": {
+        "platform_id": null,
+        "display_name": "inobstante",
+        "username": "inobstante",
+        "profile_url": "https://x.com/inobstante"
+      },
+      "text": "LULA TRETA-PRESIDENTE!",
+      "created_at": "2026-10-25T14:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T15:05:28-03:00",
+      "permalink": "https://nitter.meowing.monster/inobstante/status/2114370345884934373#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Norte"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "paraense",
+        "term_group_id": "gentilicos_norte",
+        "term_label": "Gentílicos — Norte",
+        "run_id": "0b0b0d16-e7c2-4cdc-a500-5da5be0cc6fc",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114370345884934373",
+        "text": "LULA TRETA-PRESIDENTE!",
+        "author_username": "inobstante",
+        "author_name": "inobstante",
+        "created_at": "2026-10-25T14:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/inobstante/status/2114370345884934373#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}
